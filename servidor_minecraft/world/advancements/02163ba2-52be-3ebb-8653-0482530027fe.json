@@ -1580,7 +1580,8 @@
       "potato": "2025-05-07 18:32:21 +0000",
       "bread": "2025-04-26 19:03:23 +0000",
       "golden_apple": "2025-04-29 17:18:15 +0000",
-      "rotten_flesh": "2025-04-26 19:29:21 +0000"
+      "rotten_flesh": "2025-04-26 19:29:21 +0000",
+      "carrot": "2025-05-07 19:19:29 +0000"
     },
     "done": false
   },
@@ -9654,6 +9655,12 @@
   "create:recipes/misc/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_item": "2025-05-07 18:59:34 +0000"
+    },
+    "done": true
+  },
+  "overworld_netherite_ore:the_big_one": {
+    "criteria": {
+      "the_big_one_0": "2025-05-07 19:19:48 +0000"
     },
     "done": true
   },

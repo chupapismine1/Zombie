@@ -1302,3 +1302,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07May2025 18:56:03.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A1lenSS lost connection: Disconnected
 [07May2025 18:56:03.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS left the game
 [07May2025 18:56:03.180] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client A1lenSS
+[07May2025 19:16:18.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp was slain by Zombie
+[07May2025 19:16:19.431] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[07May2025 19:19:48.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp has made the advancement [The Big One]
+[07May2025 19:21:38.201] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[07May2025 19:21:47.199] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[07May2025 19:21:47.798] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events

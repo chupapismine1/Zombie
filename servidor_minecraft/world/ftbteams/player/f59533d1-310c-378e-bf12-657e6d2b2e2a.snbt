@@ -2,7 +2,9 @@
 	id: "f59533d1-310c-378e-bf12-657e6d2b2e2a"
 	type: "player"
 	player_name: "carlitox_x1"
-	ranks: { }
+	ranks: {
+		f59533d1-310c-378e-bf12-657e6d2b2e2a: "owner"
+	}
 	properties: {
 		"ftbteams:display_name": "carlitox_x1"
 		"ftbteams:description": ""

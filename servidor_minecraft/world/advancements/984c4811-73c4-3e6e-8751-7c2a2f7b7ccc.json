@@ -9332,5 +9332,35 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/vitrified_sand": {
+    "criteria": {
+      "has_copper_block": "2025-05-05 23:56:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-05-06 00:00:14 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_torch_from_soul_chandelier": {
+    "criteria": {
+      "has_torch": "2025-05-06 00:00:14 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_chandelier": {
+    "criteria": {
+      "has_torch": "2025-05-06 00:00:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_pane_from_framed_glass_pane": {
+    "criteria": {
+      "has_item": "2025-05-06 00:03:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

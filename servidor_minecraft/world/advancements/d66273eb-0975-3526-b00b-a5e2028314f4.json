@@ -4348,7 +4348,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2025-05-01 22:18:09 +0000"
+      "sugar_cane": "2025-05-01 22:18:09 +0000",
+      "potato": "2025-05-07 17:29:06 +0000"
     },
     "done": false
   },

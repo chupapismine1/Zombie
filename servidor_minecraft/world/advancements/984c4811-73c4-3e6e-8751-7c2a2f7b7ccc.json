@@ -9628,5 +9628,17 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2025-05-07 17:29:31 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-05-07 17:28:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

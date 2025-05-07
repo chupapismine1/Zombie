@@ -8398,12 +8398,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-07 04:38:47 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-05-07 04:23:18 +0000"
@@ -8416,15 +8410,21 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/frying/glow_berry_jam": {
-    "criteria": {
-      "has_ingredient": "2025-05-07 04:26:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-05-07 04:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-07 04:23:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-05-07 04:26:07 +0000"
     },
     "done": true
   },
@@ -8440,9 +8440,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
+  "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
-      "has_slime_ball": "2025-05-07 04:23:18 +0000"
+      "has_any_ingredient": "2025-05-07 04:38:47 +0000"
     },
     "done": true
   },

@@ -8453,15 +8453,93 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-07 17:42:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-05-07 17:01:44 +0000"
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-05-07 17:41:34 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_trapdoor": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 17:46:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-05-07 17:38:18 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_door": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 17:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:white": "2025-05-07 17:45:17 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-05-07 16:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-07 17:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-07 17:42:27 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_sign": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 17:46:47 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_button": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 17:46:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-05-07 17:38:18 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_stairs": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 17:46:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-05-07 17:38:18 +0000"
     },
     "done": true
   },
@@ -8471,15 +8549,111 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-07 17:42:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-07 17:41:35 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_fence_gate": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 17:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-07 17:41:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-07 17:41:35 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_window": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 17:46:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-05-07 16:44:56 +0000"
     },
     "done": true
   },
+  "bloomingnature:recipes/baobab_chest_boat": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 17:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-07 17:38:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-07 17:38:18 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_boat": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 17:46:47 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_hanging_sign": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 17:46:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-05-07 16:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-07 17:42:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-05-07 17:38:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-05-07 17:38:18 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_slab": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 17:46:47 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_fence": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 17:46:47 +0000"
     },
     "done": true
   },

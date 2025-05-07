@@ -1214,3 +1214,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07May2025 16:46:26.587] [ForkJoinPool.commonPool-worker-3/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
 [07May2025 16:46:26.587] [ForkJoinPool.commonPool-worker-3/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
 [07May2025 16:46:26.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xander_Aqp> dame
+[07May2025 17:00:29.579] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/103, l='ServerLevel[world]', x=-158.87, y=64.00, z=108.28] died, message: 'Armorer was slain by Warrior'

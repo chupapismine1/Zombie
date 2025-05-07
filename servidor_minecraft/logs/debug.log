@@ -16132,3 +16132,507 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07May2025 16:54:25.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07May2025 16:54:25.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07May2025 16:55:38.775] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[07May2025 16:58:53.633] [Server thread/DEBUG] [pointblank/]: 33633 handling client fire request
+[07May2025 16:58:53.633] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 254725441 to 8
+[07May2025 16:58:53.633] [Server thread/DEBUG] [pointblank/]: 33633 - obtained hit result in 0ms
+[07May2025 16:58:53.633] [Server thread/DEBUG] [pointblank/]: 33633 - obtained hit result in 0ms
+[07May2025 16:58:53.633] [Server thread/DEBUG] [pointblank/]: 33633 - obtained hit result in 0ms
+[07May2025 16:58:53.633] [Server thread/DEBUG] [pointblank/]: 33633 - obtained hit result in 0ms
+[07May2025 16:58:53.633] [Server thread/DEBUG] [pointblank/]: 33633 - obtained hit result in 0ms
+[07May2025 16:58:53.633] [Server thread/DEBUG] [pointblank/]: 33633 - obtained hit result in 0ms
+[07May2025 16:58:53.633] [Server thread/DEBUG] [pointblank/]: 33633 - obtained hit result in 0ms
+[07May2025 16:58:53.633] [Server thread/DEBUG] [pointblank/]: 33633 - obtained hit result in 0ms
+[07May2025 16:58:53.633] [Server thread/DEBUG] [pointblank/]: 33633 - obtained hit result in 0ms
+[07May2025 16:58:53.633] [Server thread/DEBUG] [pointblank/]: 33633 - obtained hit result in 0ms
+[07May2025 16:58:53.633] [Server thread/DEBUG] [pointblank/]: 33633 - obtained hit result in 0ms
+[07May2025 16:58:53.633] [Server thread/DEBUG] [pointblank/]: 33633 - obtained hit result in 0ms
+[07May2025 16:58:53.633] [Server thread/DEBUG] [pointblank/]: 33633 - obtained hit result in 0ms
+[07May2025 16:58:53.633] [Server thread/DEBUG] [pointblank/]: 33633 - obtained hit result in 0ms
+[07May2025 16:58:53.633] [Server thread/DEBUG] [pointblank/]: 33633 - obtained hit result in 0ms
+[07May2025 16:58:53.633] [Server thread/DEBUG] [pointblank/]: 33633 - obtained hit result in 0ms
+[07May2025 16:58:53.633] [Server thread/DEBUG] [pointblank/]: 33633 - obtained hit result in 0ms
+[07May2025 16:58:53.633] [Server thread/DEBUG] [pointblank/]: 33633 - obtained hit result in 0ms
+[07May2025 16:58:53.634] [Server thread/DEBUG] [pointblank/]: 33634 - obtained hit result in 1ms
+[07May2025 16:58:53.634] [Server thread/DEBUG] [pointblank/]: 33634 - obtained hit result in 0ms
+[07May2025 16:58:53.634] [Server thread/DEBUG] [pointblank/]: 33634 - obtained hit result in 0ms
+[07May2025 16:58:53.634] [Server thread/DEBUG] [pointblank/]: 33634 - obtained hit result in 0ms
+[07May2025 16:58:53.634] [Server thread/DEBUG] [pointblank/]: 33634 - obtained hit result in 0ms
+[07May2025 16:58:53.634] [Server thread/DEBUG] [pointblank/]: 33634 - obtained hit result in 0ms
+[07May2025 16:58:53.634] [Server thread/DEBUG] [pointblank/]: 33634 - obtained hit result in 0ms
+[07May2025 16:58:53.634] [Server thread/DEBUG] [pointblank/]: 33634 - obtained hit result in 0ms
+[07May2025 16:58:53.634] [Server thread/DEBUG] [pointblank/]: 33634 - obtained hit result in 0ms
+[07May2025 16:58:53.634] [Server thread/DEBUG] [pointblank/]: 33634 - obtained hit result in 0ms
+[07May2025 16:58:53.634] [Server thread/DEBUG] [pointblank/]: 33634 - obtained hit result in 0ms
+[07May2025 16:58:53.634] [Server thread/DEBUG] [pointblank/]: 33634 - obtained hit result in 0ms
+[07May2025 16:58:53.634] [Server thread/DEBUG] [pointblank/]: 33634 obtained hit results
+[07May2025 16:58:53.634] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@40858db1
+[07May2025 16:58:53.635] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.635] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.635] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.635] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@a97eda8
+[07May2025 16:58:53.635] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.635] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.635] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.635] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@31085236
+[07May2025 16:58:53.636] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.636] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.636] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.636] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4835d593
+[07May2025 16:58:53.636] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.636] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.637] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.637] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@24313121
+[07May2025 16:58:53.637] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.637] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.637] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.637] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@11fe72a2
+[07May2025 16:58:53.638] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.638] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.638] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.638] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@62141b49
+[07May2025 16:58:53.639] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.639] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.639] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.639] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@46bd3d5
+[07May2025 16:58:53.639] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.640] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.640] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.640] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@29fe5240
+[07May2025 16:58:53.640] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.640] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.640] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.640] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4bf75ebf
+[07May2025 16:58:53.641] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.641] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.641] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.641] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@97bcadb
+[07May2025 16:58:53.641] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.641] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.641] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.641] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@53d4455a
+[07May2025 16:58:53.642] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.642] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.642] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.642] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@8637132
+[07May2025 16:58:53.642] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.642] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.642] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.642] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7990c427
+[07May2025 16:58:53.643] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.643] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.643] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.643] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2e6af4dc
+[07May2025 16:58:53.643] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.643] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.644] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.644] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5f658ade
+[07May2025 16:58:53.644] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.644] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.644] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.644] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4c1c8ae1
+[07May2025 16:58:53.645] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.645] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.645] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.645] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3352deb9
+[07May2025 16:58:53.645] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.645] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.645] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.645] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4a67001b
+[07May2025 16:58:53.646] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.646] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.646] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.646] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@392750f3
+[07May2025 16:58:53.646] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.646] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.647] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.647] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@11448eb4
+[07May2025 16:58:53.647] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.647] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.647] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.647] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@34462d33
+[07May2025 16:58:53.648] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.648] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.648] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.648] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@46d39478
+[07May2025 16:58:53.648] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.648] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.648] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.648] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@45f0e499
+[07May2025 16:58:53.649] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.649] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.649] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.649] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7074f3bd
+[07May2025 16:58:53.649] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.649] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.649] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.649] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@755e7735
+[07May2025 16:58:53.650] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.650] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.650] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.650] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2f744db2
+[07May2025 16:58:53.651] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.651] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.651] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.651] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6d62a0e9
+[07May2025 16:58:53.651] [Server thread/DEBUG] [pointblank/]: Creating state e061cf1f-900c-4e2f-84c8-7abd05575b5b
+[07May2025 16:58:53.653] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.653] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.653] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.653] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3adc5fe3
+[07May2025 16:58:53.653] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.653] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.653] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:53.653] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3c3d6052
+[07May2025 16:58:53.653] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:53.653] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:53.653] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.44]
+[07May2025 16:58:54.433] [Server thread/DEBUG] [pointblank/]: 34433 handling client fire request
+[07May2025 16:58:54.433] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 254725441 to 7
+[07May2025 16:58:54.433] [Server thread/DEBUG] [pointblank/]: 34433 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 1ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.434] [Server thread/DEBUG] [pointblank/]: 34434 - obtained hit result in 0ms
+[07May2025 16:58:54.435] [Server thread/DEBUG] [pointblank/]: 34435 obtained hit results
+[07May2025 16:58:54.435] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2497f35c
+[07May2025 16:58:54.435] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.435] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.435] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.435] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2b5f5e68
+[07May2025 16:58:54.435] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.435] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.435] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.435] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3c09bab3
+[07May2025 16:58:54.435] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.435] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.435] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.436] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@72c9667
+[07May2025 16:58:54.436] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.436] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.436] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.436] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1c3a98cd
+[07May2025 16:58:54.436] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.436] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.436] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.436] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4d47393c
+[07May2025 16:58:54.436] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.436] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.436] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.436] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3c6ace05
+[07May2025 16:58:54.436] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.437] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.437] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.437] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5f16e841
+[07May2025 16:58:54.437] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.437] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.437] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.437] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@17a2ef9e
+[07May2025 16:58:54.437] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.437] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.437] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.437] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6358ba8f
+[07May2025 16:58:54.437] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.437] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.437] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.437] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@9a84a07
+[07May2025 16:58:54.438] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.438] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.438] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.438] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6114ef93
+[07May2025 16:58:54.438] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.438] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.438] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.438] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@61ca2230
+[07May2025 16:58:54.438] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.438] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.438] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.438] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@47e06044
+[07May2025 16:58:54.438] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.438] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.439] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.439] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@cd3f2cd
+[07May2025 16:58:54.439] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.439] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.439] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.439] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4a7decb3
+[07May2025 16:58:54.439] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.439] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.439] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.439] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7a968c6e
+[07May2025 16:58:54.439] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.439] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.439] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.439] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3eb03138
+[07May2025 16:58:54.439] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.439] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.439] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.439] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2d66e9b9
+[07May2025 16:58:54.440] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.440] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.440] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.440] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@85b90d2
+[07May2025 16:58:54.440] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.440] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.440] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.440] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@46e0884b
+[07May2025 16:58:54.440] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.440] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.440] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.440] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7966585e
+[07May2025 16:58:54.440] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.440] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.441] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.441] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@63d75dea
+[07May2025 16:58:54.441] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.441] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.441] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.441] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@375e9c42
+[07May2025 16:58:54.441] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.441] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.441] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.441] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@753ef832
+[07May2025 16:58:54.441] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.441] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.441] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.441] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3ed1fa63
+[07May2025 16:58:54.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.442] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@67b0c85e
+[07May2025 16:58:54.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.442] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@244ff466
+[07May2025 16:58:54.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.442] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@263267b5
+[07May2025 16:58:54.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.443] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:54.443] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@178193f2
+[07May2025 16:58:54.443] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-155.86, y=56.00, z=123.03]
+[07May2025 16:58:54.443] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-155.91, y=57.00, z=124.70]
+[07May2025 16:58:54.443] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-145.70, y=64.00, z=111.20]
+[07May2025 16:58:55.435] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 254725441 to 9
+[07May2025 16:59:25.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 16:59:25.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 17:00:29.579] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/103, l='ServerLevel[world]', x=-158.87, y=64.00, z=108.28] died, message: 'Armorer was slain by Warrior'
+[07May2025 17:00:45.471] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[07May2025 17:01:37.324] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[07May2025 17:04:25.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 17:04:25.949] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[07May2025 17:04:25.949] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[07May2025 17:04:25.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 17:09:25.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 17:09:25.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 17:09:39.837] [Server thread/DEBUG] [pointblank/]: 79837 handling client fire request
+[07May2025 17:09:39.837] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1825464509 to 4
+[07May2025 17:09:39.837] [Server thread/DEBUG] [pointblank/]: 79837 - obtained hit result in 0ms
+[07May2025 17:09:39.837] [Server thread/DEBUG] [pointblank/]: 79837 obtained hit results
+[07May2025 17:09:39.837] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6fd62767
+[07May2025 17:09:39.838] [Server thread/DEBUG] [pointblank/]: Creating state 89667b26-6d06-446d-b99f-a58eba567b9b
+[07May2025 17:09:39.839] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-163.63, y=64.00, z=114.79] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-159.85, y=56.56, z=123.80]
+[07May2025 17:09:39.839] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-163.63, y=64.00, z=114.79] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-163.63, y=64.00, z=114.79]
+[07May2025 17:09:39.840] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-163.63, y=64.00, z=114.79] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-143.25, y=51.00, z=110.81]
+[07May2025 17:09:46.685] [Server thread/DEBUG] [pointblank/]: 86685 handling client fire request
+[07May2025 17:09:46.686] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1825464509 to 3
+[07May2025 17:09:46.686] [Server thread/DEBUG] [pointblank/]: 86686 - obtained hit result in 0ms
+[07May2025 17:09:46.686] [Server thread/DEBUG] [pointblank/]: 86686 obtained hit results
+[07May2025 17:09:46.686] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1d11df8a
+[07May2025 17:09:46.688] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-162.99, y=64.00, z=114.94] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-160.26, y=56.56, z=124.06]
+[07May2025 17:09:46.688] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-162.99, y=64.00, z=114.94] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-162.99, y=64.00, z=114.94]
+[07May2025 17:09:46.688] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-162.99, y=64.00, z=114.94] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-143.25, y=51.00, z=110.81]
+[07May2025 17:09:47.606] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1825464509 to 5
+[07May2025 17:13:06.386] [IO-Worker-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[07May2025 17:14:25.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 17:14:25.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 17:14:26.076] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[07May2025 17:14:26.077] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[07May2025 17:14:26.077] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[07May2025 17:14:26.078] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[07May2025 17:16:51.886] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[07May2025 17:19:25.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 17:19:25.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 17:19:26.102] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[07May2025 17:24:25.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 17:24:25.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 17:25:48.590] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[07May2025 17:27:53.138] [Server thread/DEBUG] [pointblank/]: 73138 handling client fire request
+[07May2025 17:27:53.138] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1096258405 to 0
+[07May2025 17:27:53.138] [Server thread/DEBUG] [pointblank/]: 73138 - obtained hit result in 0ms
+[07May2025 17:27:53.138] [Server thread/DEBUG] [pointblank/]: 73138 - obtained hit result in 0ms
+[07May2025 17:27:53.138] [Server thread/DEBUG] [pointblank/]: 73138 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 - obtained hit result in 0ms
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: 73139 obtained hit results
+[07May2025 17:27:53.139] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3be36b2
+[07May2025 17:27:53.140] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.140] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.140] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.140] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@16a5225e
+[07May2025 17:27:53.141] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.141] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.141] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.141] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@301ecf82
+[07May2025 17:27:53.142] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.142] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.142] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.142] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1f8e2ea3
+[07May2025 17:27:53.142] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.142] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.143] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.143] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@288aa427
+[07May2025 17:27:53.143] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.143] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.143] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.143] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6d50d3ac
+[07May2025 17:27:53.144] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.144] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.144] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.144] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@75bf80e9
+[07May2025 17:27:53.145] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.145] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.145] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.145] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@15ea8c3d
+[07May2025 17:27:53.145] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.145] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.145] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.145] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@e022351
+[07May2025 17:27:53.146] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.146] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.146] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.146] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5ebebdcb
+[07May2025 17:27:53.146] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.146] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.146] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.146] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@786ef0a8
+[07May2025 17:27:53.146] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.146] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.146] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.146] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@39a410fc
+[07May2025 17:27:53.147] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.147] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.147] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.147] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2623a432
+[07May2025 17:27:53.147] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.147] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.147] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.147] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@d5805d8
+[07May2025 17:27:53.147] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.147] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.147] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.147] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2bc4f6b
+[07May2025 17:27:53.148] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.148] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.148] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.148] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1b868c30
+[07May2025 17:27:53.148] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.148] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.148] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.148] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@203fa946
+[07May2025 17:27:53.148] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.148] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.148] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.148] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6d041e5c
+[07May2025 17:27:53.148] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.149] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.149] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.149] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@da3c380
+[07May2025 17:27:53.149] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.149] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.149] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.149] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@22eb2908
+[07May2025 17:27:53.149] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.149] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.149] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.149] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7f43d18a
+[07May2025 17:27:53.150] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.150] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.150] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.150] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@32f8d6c0
+[07May2025 17:27:53.150] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.150] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.150] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.150] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2154acdc
+[07May2025 17:27:53.150] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.150] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.150] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.150] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5a0c6297
+[07May2025 17:27:53.151] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.151] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.151] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.151] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3ba237dd
+[07May2025 17:27:53.151] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.151] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.151] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.151] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4f18b8bf
+[07May2025 17:27:53.151] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.151] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.151] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.151] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4baecfcc
+[07May2025 17:27:53.151] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.152] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.152] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.152] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@720f14f4
+[07May2025 17:27:53.152] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.152] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.152] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.152] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@58b9d9b7
+[07May2025 17:27:53.152] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.152] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.152] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]
+[07May2025 17:27:53.152] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@52ee5f5f
+[07May2025 17:27:53.153] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74]
+[07May2025 17:27:53.153] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['A1lenSS'/773, l='ServerLevel[world]', x=-153.25, y=56.00, z=111.82]
+[07May2025 17:27:53.153] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/68, l='ServerLevel[world]', x=-132.13, y=64.00, z=140.74] sends hit scan notification to ServerPlayer['Xander_Aqp'/3866, l='ServerLevel[world]', x=-149.76, y=64.50, z=124.25]

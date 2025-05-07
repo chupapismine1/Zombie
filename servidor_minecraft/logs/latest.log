@@ -1275,3 +1275,150 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07May2025 03:21:11.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigan_viendo01 lost connection: Disconnected
 [07May2025 03:21:11.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 left the game
 [07May2025 03:21:11.015] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sigan_viendo01
+[07May2025 03:25:53.431] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 112164710, path: 89667b26-6d06-446d-b99f-a58eba567b9b/precision_scope/air, elements: {}} attempted to update empty stack 0 air
+[07May2025 03:26:00.662] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 353032286, path: 89667b26-6d06-446d-b99f-a58eba567b9b/air, elements: {}} attempted to update empty stack 0 air
+[07May2025 03:26:00.662] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 2066599900, path: 89667b26-6d06-446d-b99f-a58eba567b9b/cantedrail/air, elements: {}} attempted to update empty stack 0 air
+[07May2025 03:26:00.665] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 353032286, path: 89667b26-6d06-446d-b99f-a58eba567b9b/air, elements: {}} attempted to update empty stack 0 air
+[07May2025 03:26:00.665] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 2066599900, path: 89667b26-6d06-446d-b99f-a58eba567b9b/cantedrail/air, elements: {}} attempted to update empty stack 0 air
+[07May2025 03:26:05.655] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 263289023, path: 89667b26-6d06-446d-b99f-a58eba567b9b/air, elements: {}} attempted to update empty stack 0 air
+[07May2025 03:37:17.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ANGELXD12377[/127.111.188.24:53437] logged in with entity id 135740 at (-284.1453078661606, -6.580000013113022, 190.29187228456385)
+[07May2025 03:37:17.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANGELXD12377 joined the game
+[07May2025 03:37:17.603] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to ANGELXD12377
+[07May2025 03:37:20.323] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from ANGELXD12377
+[07May2025 03:37:20.324] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ANGELXD12377 (18)
+[07May2025 03:37:20.325] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ANGELXD12377
+[07May2025 03:38:22.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported ANGELXD12377 to A1lenSS]
+[07May2025 03:57:54.149] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/171233, l='ServerLevel[world]', x=63.88, y=79.90, z=-340.97] died, message: 'Villager succumbed to infection.'
+[07May2025 03:58:00.206] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/171232, l='ServerLevel[world]', x=63.84, y=79.90, z=-340.17] died, message: 'Mason was slain by Zombie Villager'
+[07May2025 03:59:57.246] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/179110, l='ServerLevel[world]', x=120.54, y=77.00, z=-339.90] died, message: 'Farmer succumbed to infection.'
+[07May2025 04:03:31.875] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[07May2025 04:03:31.875] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[07May2025 04:03:31.876] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[07May2025 04:03:31.876] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[07May2025 04:03:31.876] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[07May2025 04:03:31.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANGELXD12377> has tp o pasen coordenaas para ir a minar
+[07May2025 04:03:57.930] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[07May2025 04:03:57.930] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[07May2025 04:03:57.931] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[07May2025 04:03:57.931] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[07May2025 04:03:57.931] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[07May2025 04:03:57.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A1lenSS> xaero-waypoint:aea:A:60:36:-206:0:false:0:Internal-overworld-waypoints
+[07May2025 04:04:33.959] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@25ef2c25]Trying to start horde event on day 80 with nextDay 80 and time 10000
+[07May2025 04:04:33.960] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@22a0b475
+[07May2025 04:04:33.960] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
+[07May2025 04:04:33.960] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
+[07May2025 04:04:33.960] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 70
+[07May2025 04:04:33.960] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 70
+[07May2025 04:04:34.008] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 80
+[07May2025 04:04:34.009] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 80
+[07May2025 04:04:34.009] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 80
+[07May2025 04:04:34.009] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 80
+[07May2025 04:04:42.611] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[07May2025 04:04:42.611] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[07May2025 04:04:42.611] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[07May2025 04:04:42.611] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[07May2025 04:04:42.611] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[07May2025 04:04:42.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANGELXD12377> ANGELXD12377
+[07May2025 04:04:50.310] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[07May2025 04:04:50.310] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[07May2025 04:04:50.311] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[07May2025 04:04:50.311] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[07May2025 04:04:50.311] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[07May2025 04:04:50.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANGELXD12377> xd
+[07May2025 04:05:24.009] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 80
+[07May2025 04:05:24.009] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 80
+[07May2025 04:05:24.009] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 80
+[07May2025 04:05:24.010] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 80
+[07May2025 04:06:14.010] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 80
+[07May2025 04:06:14.010] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 80
+[07May2025 04:06:14.010] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 80
+[07May2025 04:06:14.010] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 80
+[07May2025 04:06:58.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlitox_x1 has made the advancement [The Cutest Predator]
+[07May2025 04:07:04.035] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 80
+[07May2025 04:07:04.035] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 80
+[07May2025 04:07:04.035] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 80
+[07May2025 04:07:04.035] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 80
+[07May2025 04:07:54.070] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 80
+[07May2025 04:07:54.070] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 80
+[07May2025 04:07:54.071] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 80
+[07May2025 04:07:54.071] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 80
+[07May2025 04:07:54.074] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@25ef2c25]Can't spawn wave because max cap has been reached
+[07May2025 04:08:44.026] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 80
+[07May2025 04:08:44.026] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 80
+[07May2025 04:08:44.026] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 80
+[07May2025 04:08:44.027] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 80
+[07May2025 04:08:44.027] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@25ef2c25]Can't spawn wave because max cap has been reached
+[07May2025 04:08:58.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlitox_x1 has made the advancement [The Healing Power of Friendship!]
+[07May2025 04:09:25.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANGELXD12377 was impaled by Drowned
+[07May2025 04:09:27.764] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[07May2025 04:09:38.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANGELXD12377 tried to swim in lava
+[07May2025 04:09:40.000] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[07May2025 04:11:06.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANGELXD12377 was impaled by Drowned
+[07May2025 04:11:07.846] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[07May2025 04:11:22.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS has made the advancement [The Cutest Predator]
+[07May2025 04:12:52.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlitox_x1 lost connection: Disconnected
+[07May2025 04:12:52.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlitox_x1 left the game
+[07May2025 04:12:52.121] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client carlitox_x1
+[07May2025 04:14:43.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ANGELXD12377 lost connection: Disconnected
+[07May2025 04:14:43.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANGELXD12377 left the game
+[07May2025 04:14:43.362] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ANGELXD12377
+[07May2025 04:15:11.717] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ANGELXD12377[/127.111.188.24:33359] logged in with entity id 221765 at (96.47199747906483, 6.0, -203.30000001192093)
+[07May2025 04:15:11.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANGELXD12377 joined the game
+[07May2025 04:15:11.792] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to ANGELXD12377
+[07May2025 04:15:12.065] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from ANGELXD12377
+[07May2025 04:15:12.066] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ANGELXD12377 (18)
+[07May2025 04:15:12.066] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ANGELXD12377
+[07May2025 04:16:26.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ANGELXD12377 lost connection: Timed out
+[07May2025 04:16:26.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANGELXD12377 left the game
+[07May2025 04:16:26.801] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ANGELXD12377
+[07May2025 04:16:26.865] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07May2025 04:18:27.817] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ANGELXD12377[/127.111.188.24:40241] logged in with entity id 224795 at (96.47199747906483, 6.0, -203.30000001192093)
+[07May2025 04:18:27.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANGELXD12377 joined the game
+[07May2025 04:18:27.889] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to ANGELXD12377
+[07May2025 04:18:28.645] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from ANGELXD12377
+[07May2025 04:18:28.706] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ANGELXD12377 (18)
+[07May2025 04:18:28.706] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ANGELXD12377
+[07May2025 04:23:22.347] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/196285, l='ServerLevel[world]', x=73.50, y=74.00, z=-336.65] died, message: 'Villager succumbed to infection.'
+[07May2025 04:24:35.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS has completed the challenge [Centennial]
+[07May2025 04:35:16.623] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[07May2025 04:35:16.624] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[07May2025 04:35:16.624] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[07May2025 04:35:16.624] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[07May2025 04:35:16.624] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[07May2025 04:35:16.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANGELXD12377> [name:"Kasa", x:-172, y:64, z:113, dim:minecraft:overworld]
+[07May2025 04:36:04.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported A1lenSS to -171.500000, 66.500000, 113.500000]
+[07May2025 04:40:53.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS has made the advancement [Hidden in the Depths]
+[07May2025 04:44:33.963] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@1f4c680e]Trying to start horde event on day 70 with nextDay 70 and time 10000
+[07May2025 04:44:33.963] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@34ca3062
+[07May2025 04:44:33.964] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 50
+[07May2025 04:44:33.964] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
+[07May2025 04:44:33.964] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
+[07May2025 04:44:33.964] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
+[07May2025 04:44:34.027] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
+[07May2025 04:44:34.027] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
+[07May2025 04:44:34.027] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 70
+[07May2025 04:44:34.028] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 70
+[07May2025 04:45:24.014] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
+[07May2025 04:45:24.014] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
+[07May2025 04:45:24.015] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 70
+[07May2025 04:45:24.015] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 70
+[07May2025 04:46:14.030] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
+[07May2025 04:46:14.030] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
+[07May2025 04:46:14.030] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 70
+[07May2025 04:46:14.030] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 70
+[07May2025 04:47:04.016] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
+[07May2025 04:47:04.016] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
+[07May2025 04:47:04.016] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 70
+[07May2025 04:47:04.017] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 70
+[07May2025 04:47:54.013] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
+[07May2025 04:47:54.013] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
+[07May2025 04:47:54.013] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 70
+[07May2025 04:47:54.014] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 70
+[07May2025 04:48:44.016] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
+[07May2025 04:48:44.016] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
+[07May2025 04:48:44.016] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 70
+[07May2025 04:48:44.016] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 70
+[07May2025 05:02:26.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported ANGELXD12377 to A1lenSS]
+[07May2025 05:03:16.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A1lenSS lost connection: Disconnected
+[07May2025 05:03:16.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS left the game
+[07May2025 05:03:16.499] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client A1lenSS

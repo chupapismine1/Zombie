@@ -6855,6 +6855,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-04-29 17:03:08 +0000",
+      "potato": "2025-05-07 04:55:38 +0000",
       "wheat": "2025-05-07 02:17:06 +0000"
     },
     "done": false
@@ -9363,6 +9364,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-07 04:40:53 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/swamp_oak_trapdoor": {
     "criteria": {
       "has_swamp_oak_planks": "2025-05-07 02:53:02 +0000"
@@ -9378,6 +9385,30 @@
   "bloomingnature:recipes/baobab_door": {
     "criteria": {
       "has_baobab_planks": "2025-05-07 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-07 04:48:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_cushion": {
+    "criteria": {
+      "has_red_cushion": "2025-05-07 04:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-05-07 04:21:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_sheet": {
+    "criteria": {
+      "has_red_sheet": "2025-05-07 04:21:24 +0000"
     },
     "done": true
   },
@@ -9399,6 +9430,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-05-07 04:11:22 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/swamp_oak_button": {
     "criteria": {
       "has_swamp_oak_planks": "2025-05-07 02:53:02 +0000"
@@ -9411,9 +9448,21 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2025-05-07 04:21:24 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/swamp_oak_fence": {
     "criteria": {
       "has_swamp_oak_planks": "2025-05-07 02:53:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-05-07 03:23:03 +0000"
     },
     "done": true
   },
@@ -9435,15 +9484,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-05-07 04:21:24 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_red_wool": "2025-05-07 04:21:24 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/swamp_oak_sign": {
     "criteria": {
       "has_swamp_oak_planks": "2025-05-07 02:53:02 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-07 03:23:03 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/baobab_fence_gate": {
     "criteria": {
       "has_baobab_planks": "2025-05-07 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-05-07 04:24:35 +0000"
     },
     "done": true
   },
@@ -9477,6 +9550,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-07 04:40:53 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/baobab_boat": {
     "criteria": {
       "has_baobab_planks": "2025-05-07 02:21:11 +0000"
@@ -9489,9 +9568,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-07 03:23:03 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/swamp_oak_stairs": {
     "criteria": {
       "has_swamp_oak_planks": "2025-05-07 02:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-05-07 04:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-07 04:40:53 +0000"
     },
     "done": true
   },
@@ -9522,6 +9619,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-05-07 02:17:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-05-07 03:23:03 +0000"
     },
     "done": true
   },

@@ -9363,6 +9363,78 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/baobab_trapdoor": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_door": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_sign": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_button": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_stairs": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_fence_gate": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_window": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_chest_boat": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_boat": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_hanging_sign": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_slab": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_fence": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-07 02:21:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-05-07 02:17:06 +0000"

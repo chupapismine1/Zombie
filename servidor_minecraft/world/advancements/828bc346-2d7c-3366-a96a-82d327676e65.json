@@ -9601,6 +9601,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-07 02:56:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_stone_brick_wall_from_reinforced_stone_bricks_stonecutting": {
     "criteria": {
       "has_reinforced_stone_bricks": "2025-05-07 02:36:08 +0000"

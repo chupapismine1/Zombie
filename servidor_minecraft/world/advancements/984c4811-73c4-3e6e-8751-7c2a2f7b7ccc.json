@@ -6854,7 +6854,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2025-04-29 17:03:08 +0000"
+      "sugar_cane": "2025-04-29 17:03:08 +0000",
+      "wheat": "2025-05-07 02:17:06 +0000"
     },
     "done": false
   },
@@ -9359,6 +9360,12 @@
   "create:recipes/misc/smelting/glass_pane_from_framed_glass_pane": {
     "criteria": {
       "has_item": "2025-05-06 00:03:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-07 02:17:06 +0000"
     },
     "done": true
   },

@@ -15457,3 +15457,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07May2025 02:12:16.560] [ForkJoinPool.commonPool-worker-3/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
 [07May2025 02:12:16.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A1lenSS> me eswcuchas bro
 [07May2025 02:12:23.602] [Server thread/DEBUG] [FTB Teams/]: received teams operation msg ADD_ALLY from 984c4811-73c4-3e6e-8751-7c2a2f7b7ccc (rank OWNER), team Chupapis, target 828bc346-2d7c-3366-a96a-82d327676e65 (rank NONE)
+[07May2025 02:12:26.563] [Server thread/DEBUG] [FTB Teams/]: received teams operation msg REMOVE_ALLY from 984c4811-73c4-3e6e-8751-7c2a2f7b7ccc (rank OWNER), team Chupapis, target 828bc346-2d7c-3366-a96a-82d327676e65 (rank ALLY)
+[07May2025 02:12:28.803] [Server thread/DEBUG] [FTB Teams/]: received teams operation msg INVITE from 984c4811-73c4-3e6e-8751-7c2a2f7b7ccc (rank OWNER), team Chupapis, target 828bc346-2d7c-3366-a96a-82d327676e65 (rank NONE)
+[07May2025 02:13:49.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 02:13:49.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 02:13:58.288] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[07May2025 02:15:07.944] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1031938455 to 20
+[07May2025 02:17:03.581] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[07May2025 02:17:03.582] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[07May2025 02:17:06.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS has made the advancement [A Seedy Place]
+[07May2025 02:18:29.723] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "A1lenSS" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-154, y=56, z=135}] too quickly!
+[07May2025 02:18:30.075] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "A1lenSS" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-154, y=56, z=135}] too quickly!
+[07May2025 02:18:30.472] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "A1lenSS" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-154, y=56, z=135}] too quickly!
+[07May2025 02:18:30.895] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "A1lenSS" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-154, y=56, z=135}] too quickly!
+[07May2025 02:18:31.301] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "A1lenSS" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-154, y=56, z=135}] too quickly!
+[07May2025 02:18:31.677] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "A1lenSS" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-154, y=56, z=135}] too quickly!
+[07May2025 02:18:32.063] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "A1lenSS" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-154, y=56, z=135}] too quickly!
+[07May2025 02:18:32.443] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "A1lenSS" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-154, y=56, z=135}] too quickly!
+[07May2025 02:18:49.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 02:18:49.097] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[07May2025 02:18:49.100] [IO-Worker-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[07May2025 02:18:49.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

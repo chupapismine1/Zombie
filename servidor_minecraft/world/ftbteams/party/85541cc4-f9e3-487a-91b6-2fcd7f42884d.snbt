@@ -4,6 +4,7 @@
 	owner: "984c4811-73c4-3e6e-8751-7c2a2f7b7ccc"
 	ranks: {
 		984c4811-73c4-3e6e-8751-7c2a2f7b7ccc: "owner"
+		828bc346-2d7c-3366-a96a-82d327676e65: "invited"
 	}
 	properties: {
 		"ftbteams:display_name": "Chupapis"
@@ -25,6 +26,9 @@
 		{ from: "984c4811-73c4-3e6e-8751-7c2a2f7b7ccc", date: 1746489359480L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.kicked\",\"with\":[{\"color\":\"yellow\",\"text\":\"AlonsoVanDeKap\"},{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info Chupapis#85541cc4\"},\"text\":\"Chupapis\"}]}" }
 		{ from: "984c4811-73c4-3e6e-8751-7c2a2f7b7ccc", date: 1746489361062L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.kicked\",\"with\":[{\"color\":\"yellow\",\"text\":\"carlitox_x1\"},{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info Chupapis#85541cc4\"},\"text\":\"Chupapis\"}]}" }
 		{ from: "984c4811-73c4-3e6e-8751-7c2a2f7b7ccc", date: 1746489364364L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.remove_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"ANGELXD12377\"}]}" }
+		{ from: "984c4811-73c4-3e6e-8751-7c2a2f7b7ccc", date: 1746583943603L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"sigan_viendo01\"}]}" }
+		{ from: "984c4811-73c4-3e6e-8751-7c2a2f7b7ccc", date: 1746583946563L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.remove_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"sigan_viendo01\"}]}" }
+		{ from: "984c4811-73c4-3e6e-8751-7c2a2f7b7ccc", date: 1746583948803L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"sigan_viendo01\"}]}" }
 	]
 	extra: { }
 }

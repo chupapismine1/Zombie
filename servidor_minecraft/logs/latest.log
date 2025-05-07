@@ -1287,3 +1287,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07May2025 18:36:12.802] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
 [07May2025 18:36:12.802] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
 [07May2025 18:36:12.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A1lenSS> xd}
+[07May2025 18:48:43.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported ANGELXD12377 to A1lenSS]
+[07May2025 18:49:43.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ANGELXD12377 lost connection: Disconnected
+[07May2025 18:49:43.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANGELXD12377 left the game
+[07May2025 18:49:43.782] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ANGELXD12377
+[07May2025 18:54:07.384] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15f444f9[id=<null>,name=Xander_Aqp,properties={},legacy=false] (/127.98.12.191:58243) lost connection: Disconnected
+[07May2025 18:54:22.499] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xander_Aqp[/127.98.12.191:54755] logged in with entity id 265553 at (-155.08933199988286, 56.0, 135.57702183628547)
+[07May2025 18:54:22.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp joined the game
+[07May2025 18:54:22.571] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Xander_Aqp
+[07May2025 18:54:23.247] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Xander_Aqp
+[07May2025 18:54:23.248] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Xander_Aqp (18)
+[07May2025 18:54:23.248] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Xander_Aqp
+[07May2025 18:55:16.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported Xander_Aqp to A1lenSS]
+[07May2025 18:56:03.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A1lenSS lost connection: Disconnected
+[07May2025 18:56:03.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS left the game
+[07May2025 18:56:03.180] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client A1lenSS

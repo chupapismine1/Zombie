@@ -1290,3 +1290,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08May2025 16:15:57.411] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from sigan_viendo01
 [08May2025 16:15:57.414] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of sigan_viendo01 (18)
 [08May2025 16:15:57.415] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sigan_viendo01
+[08May2025 16:27:07.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigan_viendo01 lost connection: Disconnected
+[08May2025 16:27:07.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 left the game
+[08May2025 16:27:07.504] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sigan_viendo01
+[08May2025 16:27:37.334] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sigan_viendo01[/127.117.105.103:54197] logged in with entity id 90463 at (219.69999998807907, 19.0, -4.236973158196861)
+[08May2025 16:27:37.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 joined the game
+[08May2025 16:27:37.368] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to sigan_viendo01
+[08May2025 16:27:37.598] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from sigan_viendo01
+[08May2025 16:27:37.615] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of sigan_viendo01 (18)
+[08May2025 16:27:37.615] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sigan_viendo01
+[08May2025 16:34:36.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigan_viendo01 lost connection: Disconnected
+[08May2025 16:34:36.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 left the game
+[08May2025 16:34:36.238] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sigan_viendo01

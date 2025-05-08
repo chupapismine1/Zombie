@@ -15884,3 +15884,978 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08May2025 15:29:49.024] [ForkJoinPool.commonPool-worker-3/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
 [08May2025 15:29:49.025] [ForkJoinPool.commonPool-worker-3/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
 [08May2025 15:29:49.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sigan_viendo01> me escuhas creo que va retrasado
+[08May2025 15:30:23.446] [Server thread/DEBUG] [pointblank/]: 23446 handling client fire request
+[08May2025 15:30:23.446] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1219586386 to 1
+[08May2025 15:30:23.446] [Server thread/DEBUG] [pointblank/]: 23446 - obtained hit result in 0ms
+[08May2025 15:30:23.446] [Server thread/DEBUG] [pointblank/]: 23446 - obtained hit result in 0ms
+[08May2025 15:30:23.446] [Server thread/DEBUG] [pointblank/]: 23446 - obtained hit result in 0ms
+[08May2025 15:30:23.446] [Server thread/DEBUG] [pointblank/]: 23446 - obtained hit result in 0ms
+[08May2025 15:30:23.446] [Server thread/DEBUG] [pointblank/]: 23446 - obtained hit result in 0ms
+[08May2025 15:30:23.446] [Server thread/DEBUG] [pointblank/]: 23446 - obtained hit result in 0ms
+[08May2025 15:30:23.446] [Server thread/DEBUG] [pointblank/]: 23446 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 - obtained hit result in 0ms
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: 23447 obtained hit results
+[08May2025 15:30:23.447] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@31f30b75
+[08May2025 15:30:23.448] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.448] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.448] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3b327652
+[08May2025 15:30:23.448] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.448] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.448] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4425e36d
+[08May2025 15:30:23.448] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.448] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.448] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1e0ae405
+[08May2025 15:30:23.449] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.449] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.449] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@378bec12
+[08May2025 15:30:23.449] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.449] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.449] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1f238c57
+[08May2025 15:30:23.449] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.450] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.450] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@74763a55
+[08May2025 15:30:23.450] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.450] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.450] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3d15d212
+[08May2025 15:30:23.450] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.450] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.450] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@559642de
+[08May2025 15:30:23.450] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.450] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.450] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@56d43d0f
+[08May2025 15:30:23.450] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.450] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.450] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@13b50112
+[08May2025 15:30:23.451] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.451] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.451] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@a3d434
+[08May2025 15:30:23.451] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.451] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.451] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@67c4e64c
+[08May2025 15:30:23.451] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.451] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.451] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@100f83fe
+[08May2025 15:30:23.451] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.451] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.451] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2b89ad7c
+[08May2025 15:30:23.451] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.451] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.451] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3595de4d
+[08May2025 15:30:23.452] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.452] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.452] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@75a3a835
+[08May2025 15:30:23.452] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.452] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.452] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@19dfd50c
+[08May2025 15:30:23.452] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.452] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.452] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7f5b6906
+[08May2025 15:30:23.452] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.453] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.453] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@64a7a716
+[08May2025 15:30:23.453] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.453] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.453] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@cad49b7
+[08May2025 15:30:23.453] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.453] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.453] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6bbd9a9b
+[08May2025 15:30:23.453] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.453] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.453] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4f8acdb3
+[08May2025 15:30:23.453] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.454] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.454] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@164c5c43
+[08May2025 15:30:23.454] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.454] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.454] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@704a5fcc
+[08May2025 15:30:23.454] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.454] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.454] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@77247a1c
+[08May2025 15:30:23.454] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.455] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.455] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6e5ac61e
+[08May2025 15:30:23.455] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.455] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.455] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1a0031d2
+[08May2025 15:30:23.455] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.455] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.455] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3896b961
+[08May2025 15:30:23.455] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.455] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:23.455] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6c36d0f5
+[08May2025 15:30:23.456] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31]
+[08May2025 15:30:23.456] [Server thread/DEBUG] [pointblank/]: ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-152.68, y=56.00, z=136.31] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-140.51, y=65.00, z=133.83]
+[08May2025 15:30:24.748] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1219586386 to 2
+[08May2025 15:30:35.296] [Server thread/DEBUG] [pointblank/]: 35296 handling client fire request
+[08May2025 15:30:35.296] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 91532373 to 1
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 - obtained hit result in 0ms
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: 35297 obtained hit results
+[08May2025 15:30:35.297] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4d90cdd8
+[08May2025 15:30:35.298] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.298] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.298] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6d43142f
+[08May2025 15:30:35.299] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.299] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.299] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6fa953e7
+[08May2025 15:30:35.299] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.299] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.299] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4f1f5c43
+[08May2025 15:30:35.300] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.300] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.300] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4aaa675
+[08May2025 15:30:35.300] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.300] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.300] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@713d28a3
+[08May2025 15:30:35.301] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.301] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.301] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@54ae7b08
+[08May2025 15:30:35.301] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.301] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.302] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@61e6d89a
+[08May2025 15:30:35.302] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.302] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.302] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@302e43dd
+[08May2025 15:30:35.302] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.303] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.303] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@28ce0d4b
+[08May2025 15:30:35.303] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.303] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.304] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5875e1bb
+[08May2025 15:30:35.304] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.304] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.304] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@19c90bef
+[08May2025 15:30:35.305] [Server thread/DEBUG] [pointblank/]: Creating state 65a08540-0d63-4328-8e99-1d16e77e00bd
+[08May2025 15:30:35.306] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.306] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.306] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1e2ea73f
+[08May2025 15:30:35.307] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.307] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.307] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@50b444e
+[08May2025 15:30:35.307] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.307] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.307] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6eb716ef
+[08May2025 15:30:35.307] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.307] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.307] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3ff0eea5
+[08May2025 15:30:35.307] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.307] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.307] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@548ca13b
+[08May2025 15:30:35.308] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.308] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.308] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@bfab6d0
+[08May2025 15:30:35.308] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.308] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.308] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5dacd92e
+[08May2025 15:30:35.308] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.308] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.308] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@659191f8
+[08May2025 15:30:35.308] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.309] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.309] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@54257108
+[08May2025 15:30:35.309] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.309] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.309] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@ab7116a
+[08May2025 15:30:35.309] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.309] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.309] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@31e9dcbb
+[08May2025 15:30:35.309] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.309] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.309] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@589e952f
+[08May2025 15:30:35.310] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.310] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.310] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@27cc0205
+[08May2025 15:30:35.310] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.310] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.310] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@15426bd7
+[08May2025 15:30:35.310] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.310] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.310] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6a3161c0
+[08May2025 15:30:35.310] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.311] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.311] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@46aab644
+[08May2025 15:30:35.311] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.311] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.311] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1b158be
+[08May2025 15:30:35.311] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.311] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:35.311] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7ab978c
+[08May2025 15:30:35.311] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-138.10, y=65.00, z=133.30]
+[08May2025 15:30:35.312] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-125.97, y=64.00, z=124.97]
+[08May2025 15:30:36.556] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 91532373 to 2
+[08May2025 15:32:16.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 15:32:16.318] [IO-Worker-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[08May2025 15:32:16.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 15:34:01.743] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[08May2025 15:35:27.752] [Server thread/DEBUG] [pointblank/]: 27752 handling client fire request
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 91532373 to 1
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 - obtained hit result in 0ms
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: 27753 obtained hit results
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@42928b5
+[08May2025 15:35:27.753] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.754] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5f6dd393
+[08May2025 15:35:27.754] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.754] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6ae5a9be
+[08May2025 15:35:27.754] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.754] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@262bfb42
+[08May2025 15:35:27.754] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.754] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6b8a03b2
+[08May2025 15:35:27.754] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.754] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5a4ab41b
+[08May2025 15:35:27.754] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.754] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1da54eb5
+[08May2025 15:35:27.754] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.754] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@64ad57a8
+[08May2025 15:35:27.754] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.754] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5f014f1c
+[08May2025 15:35:27.754] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.754] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@50e4d28b
+[08May2025 15:35:27.755] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.755] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6703fec4
+[08May2025 15:35:27.755] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.755] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@699de59b
+[08May2025 15:35:27.755] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.755] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3c313e1b
+[08May2025 15:35:27.755] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.755] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4ab7d39c
+[08May2025 15:35:27.755] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.755] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@32baf1d0
+[08May2025 15:35:27.756] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.756] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@348d6b21
+[08May2025 15:35:27.756] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.756] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1794a4d
+[08May2025 15:35:27.756] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.756] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@75a652cd
+[08May2025 15:35:27.756] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.756] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@10f709d8
+[08May2025 15:35:27.756] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.756] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4f7cac84
+[08May2025 15:35:27.756] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.756] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@49cbc04
+[08May2025 15:35:27.756] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.756] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@436bb660
+[08May2025 15:35:27.756] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.756] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6bfade1c
+[08May2025 15:35:27.756] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.756] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@41c8576b
+[08May2025 15:35:27.756] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.756] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2055afca
+[08May2025 15:35:27.757] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.757] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3e13c516
+[08May2025 15:35:27.757] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.757] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@324e6f6
+[08May2025 15:35:27.757] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.757] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@d48af6
+[08May2025 15:35:27.757] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.757] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@d725ed9
+[08May2025 15:35:27.757] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:27.757] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2d690114
+[08May2025 15:35:27.757] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.14, y=71.00, z=196.85]
+[08May2025 15:35:28.456] [Server thread/DEBUG] [pointblank/]: 28456 handling client fire request
+[08May2025 15:35:28.456] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 91532373 to 0
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 1ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 - obtained hit result in 0ms
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: 28457 obtained hit results
+[08May2025 15:35:28.457] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@633fef6b
+[08May2025 15:35:28.458] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.458] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@11d33366
+[08May2025 15:35:28.458] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.458] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3424b63e
+[08May2025 15:35:28.459] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.459] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3773da9
+[08May2025 15:35:28.459] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.459] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1f2fce1b
+[08May2025 15:35:28.460] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.460] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@176f869b
+[08May2025 15:35:28.460] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.460] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@66b570e
+[08May2025 15:35:28.460] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.460] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3c4ba81f
+[08May2025 15:35:28.461] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.461] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5161db77
+[08May2025 15:35:28.461] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.462] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@45fa3fda
+[08May2025 15:35:28.462] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.462] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7f4b8785
+[08May2025 15:35:28.463] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.463] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2582de1d
+[08May2025 15:35:28.463] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.463] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7a6703b9
+[08May2025 15:35:28.463] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.463] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6e77e7c0
+[08May2025 15:35:28.464] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.464] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4da33224
+[08May2025 15:35:28.464] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.464] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7ee26fbb
+[08May2025 15:35:28.465] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.465] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3cdac115
+[08May2025 15:35:28.465] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.465] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6d4278a9
+[08May2025 15:35:28.466] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.466] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@39a45537
+[08May2025 15:35:28.466] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.466] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@54d66a0f
+[08May2025 15:35:28.468] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.468] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3e6edbe9
+[08May2025 15:35:28.468] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.468] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@40976bbd
+[08May2025 15:35:28.468] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.468] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5b018375
+[08May2025 15:35:28.468] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.468] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3c600c08
+[08May2025 15:35:28.468] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.468] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@749929fe
+[08May2025 15:35:28.469] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.469] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@fa86e53
+[08May2025 15:35:28.469] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.469] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@58654ef8
+[08May2025 15:35:28.469] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.469] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@645909b0
+[08May2025 15:35:28.469] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.469] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@59320a1c
+[08May2025 15:35:28.469] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:28.469] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@15243d9f
+[08May2025 15:35:28.469] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-98.75, y=71.00, z=195.98]
+[08May2025 15:35:29.753] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 91532373 to 2
+[08May2025 15:35:32.199] [Server thread/DEBUG] [pointblank/]: 32199 handling client fire request
+[08May2025 15:35:32.199] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 91532373 to 1
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.200] [Server thread/DEBUG] [pointblank/]: 32200 - obtained hit result in 0ms
+[08May2025 15:35:32.201] [Server thread/DEBUG] [pointblank/]: 32201 - obtained hit result in 0ms
+[08May2025 15:35:32.201] [Server thread/DEBUG] [pointblank/]: 32201 - obtained hit result in 0ms
+[08May2025 15:35:32.201] [Server thread/DEBUG] [pointblank/]: 32201 - obtained hit result in 0ms
+[08May2025 15:35:32.201] [Server thread/DEBUG] [pointblank/]: 32201 obtained hit results
+[08May2025 15:35:32.201] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@cbf66ee
+[08May2025 15:35:32.201] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.202] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7fd404e3
+[08May2025 15:35:32.202] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.202] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1d5e16db
+[08May2025 15:35:32.202] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.202] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2744460
+[08May2025 15:35:32.202] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.202] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@26b5f7da
+[08May2025 15:35:32.203] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.203] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@79191cf3
+[08May2025 15:35:32.203] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.203] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1f6d71a1
+[08May2025 15:35:32.204] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.204] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@18831c53
+[08May2025 15:35:32.204] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.204] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3d098f7e
+[08May2025 15:35:32.204] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.204] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2434d0ba
+[08May2025 15:35:32.205] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.205] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@50205de4
+[08May2025 15:35:32.205] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.205] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@50c1b237
+[08May2025 15:35:32.206] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.206] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2142a52e
+[08May2025 15:35:32.206] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.206] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@23f110bc
+[08May2025 15:35:32.206] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.206] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@716ca65b
+[08May2025 15:35:32.207] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.207] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2ce1f24b
+[08May2025 15:35:32.207] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.207] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@18be592c
+[08May2025 15:35:32.207] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.207] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3361ce77
+[08May2025 15:35:32.208] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.208] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@231f5e4
+[08May2025 15:35:32.208] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.208] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@89f9447
+[08May2025 15:35:32.209] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.209] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@51253bd6
+[08May2025 15:35:32.209] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.209] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5e857dfe
+[08May2025 15:35:32.210] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.210] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@53962d1f
+[08May2025 15:35:32.210] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.210] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@27dfb686
+[08May2025 15:35:32.210] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.210] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5f5cc220
+[08May2025 15:35:32.210] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.211] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2ac32eb8
+[08May2025 15:35:32.211] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.211] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@48df102a
+[08May2025 15:35:32.211] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.211] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@126ef431
+[08May2025 15:35:32.212] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.212] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2b9a699e
+[08May2025 15:35:32.212] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.212] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@189f34bb
+[08May2025 15:35:32.213] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-96.82, y=70.00, z=192.07]
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 handling client fire request
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 91532373 to 0
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.795] [Server thread/DEBUG] [pointblank/]: 32795 - obtained hit result in 0ms
+[08May2025 15:35:32.796] [Server thread/DEBUG] [pointblank/]: 32796 - obtained hit result in 0ms
+[08May2025 15:35:32.796] [Server thread/DEBUG] [pointblank/]: 32796 - obtained hit result in 0ms
+[08May2025 15:35:32.796] [Server thread/DEBUG] [pointblank/]: 32796 - obtained hit result in 0ms
+[08May2025 15:35:32.796] [Server thread/DEBUG] [pointblank/]: 32796 - obtained hit result in 0ms
+[08May2025 15:35:32.796] [Server thread/DEBUG] [pointblank/]: 32796 - obtained hit result in 0ms
+[08May2025 15:35:32.796] [Server thread/DEBUG] [pointblank/]: 32796 obtained hit results
+[08May2025 15:35:32.796] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7c3d97c5
+[08May2025 15:35:32.796] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.797] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5b3753bd
+[08May2025 15:35:32.797] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.797] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1e22bece
+[08May2025 15:35:32.797] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.797] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@236b3f72
+[08May2025 15:35:32.798] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.798] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@33780765
+[08May2025 15:35:32.798] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.798] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@52b3000c
+[08May2025 15:35:32.798] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.799] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@59ec005a
+[08May2025 15:35:32.799] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.799] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@230634ba
+[08May2025 15:35:32.799] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.799] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@50365c90
+[08May2025 15:35:32.800] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.800] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1acf85fa
+[08May2025 15:35:32.800] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.800] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2318b829
+[08May2025 15:35:32.800] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.801] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@31a9fb14
+[08May2025 15:35:32.801] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.801] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@732406e4
+[08May2025 15:35:32.802] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.802] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@36d578f7
+[08May2025 15:35:32.802] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.802] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5c65702d
+[08May2025 15:35:32.803] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.803] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@36ac3af7
+[08May2025 15:35:32.804] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.805] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@c6c58b6
+[08May2025 15:35:32.805] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.805] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@11639b0c
+[08May2025 15:35:32.805] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.805] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@66707515
+[08May2025 15:35:32.805] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.805] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@315c80ae
+[08May2025 15:35:32.805] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.806] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5f1bc7db
+[08May2025 15:35:32.806] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.806] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@522d9ccf
+[08May2025 15:35:32.806] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.806] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@37109342
+[08May2025 15:35:32.806] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.807] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@629c2cfe
+[08May2025 15:35:32.807] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.807] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@63b81a69
+[08May2025 15:35:32.807] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.807] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5d4d3935
+[08May2025 15:35:32.807] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.807] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6ef43b5d
+[08May2025 15:35:32.808] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.808] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6d8c11a1
+[08May2025 15:35:32.808] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.808] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4e44352b
+[08May2025 15:35:32.808] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:32.808] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7af42947
+[08May2025 15:35:32.808] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-95.48, y=70.00, z=193.85]
+[08May2025 15:35:36.962] [Server thread/DEBUG] [pointblank/]: 36962 handling client fire request
+[08May2025 15:35:36.962] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 640614696 to 15
+[08May2025 15:35:36.963] [Server thread/DEBUG] [pointblank/]: 36963 - obtained hit result in 0ms
+[08May2025 15:35:36.963] [Server thread/DEBUG] [pointblank/]: 36963 obtained hit results
+[08May2025 15:35:36.963] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5a553ff3
+[08May2025 15:35:36.964] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-100.61, y=71.00, z=203.38] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-144.44, y=64.00, z=123.40]
+[08May2025 15:35:36.964] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-100.61, y=71.00, z=203.38] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-100.61, y=71.00, z=203.38]
+[08May2025 15:35:37.150] [Server thread/DEBUG] [pointblank/]: 37150 handling client fire request
+[08May2025 15:35:37.150] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 640614696 to 14
+[08May2025 15:35:37.151] [Server thread/DEBUG] [pointblank/]: 37151 - obtained hit result in 1ms
+[08May2025 15:35:37.151] [Server thread/DEBUG] [pointblank/]: 37151 obtained hit results
+[08May2025 15:35:37.151] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6127e10b
+[08May2025 15:35:37.151] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-100.69, y=71.00, z=203.47] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-144.45, y=64.00, z=123.27]
+[08May2025 15:35:37.151] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-100.69, y=71.00, z=203.47] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-100.69, y=71.00, z=203.47]
+[08May2025 15:35:37.352] [Server thread/DEBUG] [pointblank/]: 37352 handling client fire request
+[08May2025 15:35:37.352] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 640614696 to 13
+[08May2025 15:35:37.352] [Server thread/DEBUG] [pointblank/]: 37352 - obtained hit result in 0ms
+[08May2025 15:35:37.352] [Server thread/DEBUG] [pointblank/]: 37352 obtained hit results
+[08May2025 15:35:37.352] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5c5eae82
+[08May2025 15:35:37.353] [Server thread/DEBUG] [pointblank/]: Creating state 3eb8d806-9f58-4128-804e-8d15e868409b
+[08May2025 15:35:37.354] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-100.78, y=71.00, z=203.43] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-144.45, y=64.00, z=122.54]
+[08May2025 15:35:37.354] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-100.78, y=71.00, z=203.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-100.78, y=71.00, z=203.43]
+[08May2025 15:35:37.553] [Server thread/DEBUG] [pointblank/]: 37553 handling client fire request
+[08May2025 15:35:37.553] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 640614696 to 12
+[08May2025 15:35:37.553] [Server thread/DEBUG] [pointblank/]: 37553 - obtained hit result in 0ms
+[08May2025 15:35:37.553] [Server thread/DEBUG] [pointblank/]: 37553 obtained hit results
+[08May2025 15:35:37.553] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1e325378
+[08May2025 15:35:37.554] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.35, y=71.00, z=203.14] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-144.80, y=64.50, z=121.81]
+[08May2025 15:35:37.554] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.35, y=71.00, z=203.14] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.35, y=71.00, z=203.14]
+[08May2025 15:35:37.712] [Server thread/DEBUG] [pointblank/]: 37712 handling client fire request
+[08May2025 15:35:37.712] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 640614696 to 11
+[08May2025 15:35:37.712] [Server thread/DEBUG] [pointblank/]: 37712 - obtained hit result in 0ms
+[08May2025 15:35:37.712] [Server thread/DEBUG] [pointblank/]: 37712 obtained hit results
+[08May2025 15:35:37.712] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3731d482
+[08May2025 15:35:37.714] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.45, y=71.00, z=203.09] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-144.86, y=64.50, z=121.59]
+[08May2025 15:35:37.714] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.45, y=71.00, z=203.09] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.45, y=71.00, z=203.09]
+[08May2025 15:35:37.904] [Server thread/DEBUG] [pointblank/]: 37904 handling client fire request
+[08May2025 15:35:37.904] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 640614696 to 10
+[08May2025 15:35:37.904] [Server thread/DEBUG] [pointblank/]: 37904 - obtained hit result in 0ms
+[08May2025 15:35:37.904] [Server thread/DEBUG] [pointblank/]: 37904 obtained hit results
+[08May2025 15:35:37.904] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5e325775
+[08May2025 15:35:37.904] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.97, y=71.00, z=202.77] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-144.86, y=64.50, z=121.57]
+[08May2025 15:35:37.904] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.97, y=71.00, z=202.77] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.97, y=71.00, z=202.77]
+[08May2025 15:35:38.101] [Server thread/DEBUG] [pointblank/]: 38101 handling client fire request
+[08May2025 15:35:38.101] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 640614696 to 9
+[08May2025 15:35:38.101] [Server thread/DEBUG] [pointblank/]: 38101 - obtained hit result in 0ms
+[08May2025 15:35:38.101] [Server thread/DEBUG] [pointblank/]: 38101 obtained hit results
+[08May2025 15:35:38.101] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2dcc6a7
+[08May2025 15:35:38.102] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-102.42, y=71.00, z=202.12] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-144.86, y=64.50, z=121.57]
+[08May2025 15:35:38.102] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-102.42, y=71.00, z=202.12] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-102.42, y=71.00, z=202.12]
+[08May2025 15:35:38.316] [Server thread/DEBUG] [pointblank/]: 38316 handling client fire request
+[08May2025 15:35:38.316] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 640614696 to 8
+[08May2025 15:35:38.317] [Server thread/DEBUG] [pointblank/]: 38317 - obtained hit result in 0ms
+[08May2025 15:35:38.317] [Server thread/DEBUG] [pointblank/]: 38317 obtained hit results
+[08May2025 15:35:38.317] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@ced4338
+[08May2025 15:35:38.317] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-103.20, y=71.00, z=201.94] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-144.59, y=64.27, z=122.09]
+[08May2025 15:35:38.317] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-103.20, y=71.00, z=201.94] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-103.20, y=71.00, z=201.94]
+[08May2025 15:35:38.505] [Server thread/DEBUG] [pointblank/]: 38505 handling client fire request
+[08May2025 15:35:38.505] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 640614696 to 7
+[08May2025 15:35:38.505] [Server thread/DEBUG] [pointblank/]: 38505 - obtained hit result in 0ms
+[08May2025 15:35:38.505] [Server thread/DEBUG] [pointblank/]: 38505 obtained hit results
+[08May2025 15:35:38.505] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3f202e03
+[08May2025 15:35:38.505] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-104.06, y=71.00, z=201.85] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-144.52, y=64.00, z=122.22]
+[08May2025 15:35:38.505] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-104.06, y=71.00, z=201.85] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-104.06, y=71.00, z=201.85]
+[08May2025 15:35:38.716] [Server thread/DEBUG] [pointblank/]: 38716 handling client fire request
+[08May2025 15:35:38.716] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 640614696 to 6
+[08May2025 15:35:38.716] [Server thread/DEBUG] [pointblank/]: 38716 - obtained hit result in 0ms
+[08May2025 15:35:38.716] [Server thread/DEBUG] [pointblank/]: 38716 obtained hit results
+[08May2025 15:35:38.716] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4c20825b
+[08May2025 15:35:38.722] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-104.84, y=71.00, z=202.14] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-144.51, y=64.00, z=122.24]
+[08May2025 15:35:38.722] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-104.84, y=71.00, z=202.14] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-104.84, y=71.00, z=202.14]
+[08May2025 15:35:38.857] [Server thread/DEBUG] [pointblank/]: 38857 handling client fire request
+[08May2025 15:35:38.857] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 640614696 to 5
+[08May2025 15:35:38.857] [Server thread/DEBUG] [pointblank/]: 38857 - obtained hit result in 0ms
+[08May2025 15:35:38.857] [Server thread/DEBUG] [pointblank/]: 38857 obtained hit results
+[08May2025 15:35:38.857] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5c2ee5d6
+[08May2025 15:35:38.858] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-105.03, y=71.00, z=202.24] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-144.53, y=64.00, z=121.81]
+[08May2025 15:35:38.858] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-105.03, y=71.00, z=202.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-105.03, y=71.00, z=202.24]
+[08May2025 15:35:39.052] [Server thread/DEBUG] [pointblank/]: 39052 handling client fire request
+[08May2025 15:35:39.052] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 640614696 to 4
+[08May2025 15:35:39.052] [Server thread/DEBUG] [pointblank/]: 39052 - obtained hit result in 0ms
+[08May2025 15:35:39.052] [Server thread/DEBUG] [pointblank/]: 39052 obtained hit results
+[08May2025 15:35:39.052] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@158c3197
+[08May2025 15:35:39.053] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-105.06, y=71.00, z=202.25] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-144.54, y=64.00, z=121.62]
+[08May2025 15:35:39.053] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-105.06, y=71.00, z=202.25] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-105.06, y=71.00, z=202.25]
+[08May2025 15:35:39.953] [Server thread/DEBUG] [pointblank/]: 39953 handling client fire request
+[08May2025 15:35:39.953] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 640614696 to 3
+[08May2025 15:35:39.953] [Server thread/DEBUG] [pointblank/]: 39953 - obtained hit result in 0ms
+[08May2025 15:35:39.954] [Server thread/DEBUG] [pointblank/]: 39954 obtained hit results
+[08May2025 15:35:39.954] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5f17c58f
+[08May2025 15:35:39.955] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-103.62, y=71.00, z=201.00] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-143.09, y=64.00, z=121.70]
+[08May2025 15:35:39.955] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-103.62, y=71.00, z=201.00] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-103.62, y=71.00, z=201.00]
+[08May2025 15:35:40.158] [Server thread/DEBUG] [pointblank/]: 40158 handling client fire request
+[08May2025 15:35:40.158] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 640614696 to 2
+[08May2025 15:35:40.159] [Server thread/DEBUG] [pointblank/]: 40159 - obtained hit result in 0ms
+[08May2025 15:35:40.159] [Server thread/DEBUG] [pointblank/]: 40159 obtained hit results
+[08May2025 15:35:40.159] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@57b43732
+[08May2025 15:35:40.160] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-103.05, y=71.00, z=200.50] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-142.75, y=64.00, z=121.60]
+[08May2025 15:35:40.160] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-103.05, y=71.00, z=200.50] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-103.05, y=71.00, z=200.50]
+[08May2025 15:35:40.299] [Server thread/DEBUG] [pointblank/]: 40299 handling client fire request
+[08May2025 15:35:40.300] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 640614696 to 1
+[08May2025 15:35:40.300] [Server thread/DEBUG] [pointblank/]: 40300 - obtained hit result in 0ms
+[08May2025 15:35:40.300] [Server thread/DEBUG] [pointblank/]: 40300 obtained hit results
+[08May2025 15:35:40.300] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2fd686e9
+[08May2025 15:35:40.300] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-102.96, y=71.00, z=200.42] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-142.69, y=64.00, z=121.59]
+[08May2025 15:35:40.300] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-102.96, y=71.00, z=200.42] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-102.96, y=71.00, z=200.42]
+[08May2025 15:35:41.806] [Server thread/DEBUG] [pointblank/]: 41806 handling client fire request
+[08May2025 15:35:41.806] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 640614696 to 0
+[08May2025 15:35:41.806] [Server thread/DEBUG] [pointblank/]: 41806 - obtained hit result in 0ms
+[08May2025 15:35:41.806] [Server thread/DEBUG] [pointblank/]: 41806 obtained hit results
+[08May2025 15:35:41.806] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@612f076a
+[08May2025 15:35:41.807] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-102.26, y=71.00, z=197.64] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-142.96, y=64.00, z=123.51]
+[08May2025 15:35:41.807] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-102.26, y=71.00, z=197.64] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-102.26, y=71.00, z=197.64]
+[08May2025 15:35:44.401] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 640614696 to 20
+[08May2025 15:35:47.200] [Server thread/DEBUG] [pointblank/]: 47200 handling client fire request
+[08May2025 15:35:47.200] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 640614696 to 19
+[08May2025 15:35:47.200] [Server thread/DEBUG] [pointblank/]: 47200 - obtained hit result in 0ms
+[08May2025 15:35:47.200] [Server thread/DEBUG] [pointblank/]: 47200 obtained hit results
+[08May2025 15:35:47.200] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2e27b407
+[08May2025 15:35:47.201] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-104.50, y=71.00, z=209.73] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-143.53, y=64.00, z=123.41]
+[08May2025 15:35:47.201] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-104.50, y=71.00, z=209.73] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-104.50, y=71.00, z=209.73]
+[08May2025 15:35:47.398] [Server thread/DEBUG] [pointblank/]: 47398 handling client fire request
+[08May2025 15:35:47.398] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 640614696 to 18
+[08May2025 15:35:47.399] [Server thread/DEBUG] [pointblank/]: 47399 - obtained hit result in 0ms
+[08May2025 15:35:47.399] [Server thread/DEBUG] [pointblank/]: 47399 obtained hit results
+[08May2025 15:35:47.399] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@62fa9d7a
+[08May2025 15:35:47.400] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-104.65, y=71.08, z=210.42] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-143.53, y=64.00, z=123.10]
+[08May2025 15:35:47.401] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-104.65, y=71.08, z=210.42] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-104.65, y=71.08, z=210.42]
+[08May2025 15:35:47.549] [Server thread/DEBUG] [pointblank/]: 47549 handling client fire request
+[08May2025 15:35:47.549] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 640614696 to 17
+[08May2025 15:35:47.549] [Server thread/DEBUG] [pointblank/]: 47549 - obtained hit result in 0ms
+[08May2025 15:35:47.549] [Server thread/DEBUG] [pointblank/]: 47549 obtained hit results
+[08May2025 15:35:47.549] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1b47159a
+[08May2025 15:35:47.550] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-104.66, y=71.00, z=210.70] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-143.53, y=64.00, z=122.75]
+[08May2025 15:35:47.550] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-104.66, y=71.00, z=210.70] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-104.66, y=71.00, z=210.70]
+[08May2025 15:35:47.758] [Server thread/DEBUG] [pointblank/]: 47758 handling client fire request
+[08May2025 15:35:47.758] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 640614696 to 16
+[08May2025 15:35:47.758] [Server thread/DEBUG] [pointblank/]: 47758 - obtained hit result in 0ms
+[08May2025 15:35:47.758] [Server thread/DEBUG] [pointblank/]: 47758 obtained hit results
+[08May2025 15:35:47.758] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@16d12666
+[08May2025 15:35:47.760] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-104.66, y=71.00, z=210.79] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-143.54, y=64.00, z=122.35]
+[08May2025 15:35:47.760] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-104.66, y=71.00, z=210.79] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-104.66, y=71.00, z=210.79]
+[08May2025 15:35:48.251] [Server thread/DEBUG] [pointblank/]: 48251 handling client fire request
+[08May2025 15:35:48.251] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 640614696 to 15
+[08May2025 15:35:48.251] [Server thread/DEBUG] [pointblank/]: 48251 - obtained hit result in 0ms
+[08May2025 15:35:48.251] [Server thread/DEBUG] [pointblank/]: 48251 obtained hit results
+[08May2025 15:35:48.251] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2d790001
+[08May2025 15:35:48.251] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-104.92, y=71.00, z=209.83] sends hit scan notification to ServerPlayer['ANGELXD12377'/76, l='ServerLevel[world]', x=-143.72, y=64.00, z=121.95]
+[08May2025 15:35:48.251] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-104.92, y=71.00, z=209.83] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-104.92, y=71.00, z=209.83]
+[08May2025 15:35:53.524] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[08May2025 15:35:53.525] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[08May2025 15:35:53.525] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[08May2025 15:35:53.525] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[08May2025 15:35:53.525] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[08May2025 15:35:53.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sigan_viendo01> r
+[08May2025 15:35:54.450] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 91532373 to 2
+[08May2025 15:35:56.953] [Server thread/DEBUG] [pointblank/]: 56953 handling client fire request
+[08May2025 15:35:56.953] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 91532373 to 1
+[08May2025 15:35:56.953] [Server thread/DEBUG] [pointblank/]: 56953 - obtained hit result in 0ms
+[08May2025 15:35:56.953] [Server thread/DEBUG] [pointblank/]: 56953 - obtained hit result in 0ms
+[08May2025 15:35:56.953] [Server thread/DEBUG] [pointblank/]: 56953 - obtained hit result in 0ms
+[08May2025 15:35:56.953] [Server thread/DEBUG] [pointblank/]: 56953 - obtained hit result in 0ms
+[08May2025 15:35:56.953] [Server thread/DEBUG] [pointblank/]: 56953 - obtained hit result in 0ms
+[08May2025 15:35:56.953] [Server thread/DEBUG] [pointblank/]: 56953 - obtained hit result in 0ms
+[08May2025 15:35:56.953] [Server thread/DEBUG] [pointblank/]: 56953 - obtained hit result in 0ms
+[08May2025 15:35:56.953] [Server thread/DEBUG] [pointblank/]: 56953 - obtained hit result in 0ms
+[08May2025 15:35:56.953] [Server thread/DEBUG] [pointblank/]: 56953 - obtained hit result in 0ms
+[08May2025 15:35:56.953] [Server thread/DEBUG] [pointblank/]: 56953 - obtained hit result in 0ms
+[08May2025 15:35:56.953] [Server thread/DEBUG] [pointblank/]: 56953 - obtained hit result in 0ms
+[08May2025 15:35:56.953] [Server thread/DEBUG] [pointblank/]: 56953 - obtained hit result in 0ms
+[08May2025 15:35:56.954] [Server thread/DEBUG] [pointblank/]: 56954 - obtained hit result in 1ms
+[08May2025 15:35:56.954] [Server thread/DEBUG] [pointblank/]: 56954 - obtained hit result in 0ms
+[08May2025 15:35:56.954] [Server thread/DEBUG] [pointblank/]: 56954 - obtained hit result in 0ms
+[08May2025 15:35:56.954] [Server thread/DEBUG] [pointblank/]: 56954 - obtained hit result in 0ms
+[08May2025 15:35:56.954] [Server thread/DEBUG] [pointblank/]: 56954 - obtained hit result in 0ms
+[08May2025 15:35:56.954] [Server thread/DEBUG] [pointblank/]: 56954 - obtained hit result in 0ms
+[08May2025 15:35:56.954] [Server thread/DEBUG] [pointblank/]: 56954 - obtained hit result in 0ms
+[08May2025 15:35:56.954] [Server thread/DEBUG] [pointblank/]: 56954 - obtained hit result in 0ms
+[08May2025 15:35:56.954] [Server thread/DEBUG] [pointblank/]: 56954 - obtained hit result in 0ms
+[08May2025 15:35:56.954] [Server thread/DEBUG] [pointblank/]: 56954 - obtained hit result in 0ms
+[08May2025 15:35:56.954] [Server thread/DEBUG] [pointblank/]: 56954 - obtained hit result in 0ms
+[08May2025 15:35:56.954] [Server thread/DEBUG] [pointblank/]: 56954 - obtained hit result in 0ms
+[08May2025 15:35:56.954] [Server thread/DEBUG] [pointblank/]: 56954 - obtained hit result in 0ms
+[08May2025 15:35:56.954] [Server thread/DEBUG] [pointblank/]: 56954 - obtained hit result in 0ms
+[08May2025 15:35:56.954] [Server thread/DEBUG] [pointblank/]: 56954 - obtained hit result in 0ms
+[08May2025 15:35:56.954] [Server thread/DEBUG] [pointblank/]: 56954 - obtained hit result in 0ms
+[08May2025 15:35:56.954] [Server thread/DEBUG] [pointblank/]: 56954 - obtained hit result in 0ms
+[08May2025 15:35:56.954] [Server thread/DEBUG] [pointblank/]: 56954 - obtained hit result in 0ms
+[08May2025 15:35:56.954] [Server thread/DEBUG] [pointblank/]: 56954 obtained hit results
+[08May2025 15:35:56.954] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6996f590
+[08May2025 15:35:56.955] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.955] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1d662769
+[08May2025 15:35:56.955] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.955] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7764251c
+[08May2025 15:35:56.955] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.955] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6fc9df0f
+[08May2025 15:35:56.956] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.956] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@31ad9d13
+[08May2025 15:35:56.956] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.956] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1ddca920
+[08May2025 15:35:56.957] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.957] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4bc62342
+[08May2025 15:35:56.957] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.957] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6ad6bc92
+[08May2025 15:35:56.957] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.957] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@37cef1de
+[08May2025 15:35:56.958] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.958] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4fa3cbae
+[08May2025 15:35:56.958] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.958] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@35053d2b
+[08May2025 15:35:56.958] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.958] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6ae83535
+[08May2025 15:35:56.959] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.959] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2ae879b7
+[08May2025 15:35:56.959] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.959] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7bc739ff
+[08May2025 15:35:56.959] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.959] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@67b7afc9
+[08May2025 15:35:56.960] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.960] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4cdd7f97
+[08May2025 15:35:56.960] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.960] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2591927a
+[08May2025 15:35:56.961] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.961] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@675b5ff6
+[08May2025 15:35:56.961] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.961] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3d486d33
+[08May2025 15:35:56.962] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.962] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@639ef7b9
+[08May2025 15:35:56.962] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.962] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@919c659
+[08May2025 15:35:56.963] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.963] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3a1d1e7e
+[08May2025 15:35:56.963] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.963] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5cca0e4d
+[08May2025 15:35:56.965] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.965] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@48fd1952
+[08May2025 15:35:56.965] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.965] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@f11351a
+[08May2025 15:35:56.965] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.965] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5d2d2468
+[08May2025 15:35:56.965] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.965] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5199f1e6
+[08May2025 15:35:56.966] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.966] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@710e450e
+[08May2025 15:35:56.966] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.966] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@77b107d0
+[08May2025 15:35:56.966] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:56.966] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@438b732a
+[08May2025 15:35:56.966] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-101.70, y=71.00, z=198.24]
+[08May2025 15:35:58.295] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 91532373 to 2
+[08May2025 15:36:16.050] [Server thread/DEBUG] [pointblank/]: 76050 handling client fire request
+[08May2025 15:36:16.050] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 91532373 to 1
+[08May2025 15:36:16.050] [Server thread/DEBUG] [pointblank/]: 76050 - obtained hit result in 0ms
+[08May2025 15:36:16.050] [Server thread/DEBUG] [pointblank/]: 76050 - obtained hit result in 0ms
+[08May2025 15:36:16.050] [Server thread/DEBUG] [pointblank/]: 76050 - obtained hit result in 0ms
+[08May2025 15:36:16.050] [Server thread/DEBUG] [pointblank/]: 76050 - obtained hit result in 0ms
+[08May2025 15:36:16.050] [Server thread/DEBUG] [pointblank/]: 76050 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76050 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 - obtained hit result in 0ms
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: 76051 obtained hit results
+[08May2025 15:36:16.051] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1b4070ab
+[08May2025 15:36:16.052] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.052] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@67a51237
+[08May2025 15:36:16.053] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.053] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@297be2e8
+[08May2025 15:36:16.053] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.053] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@dc4a2be
+[08May2025 15:36:16.053] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.053] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@15995e85
+[08May2025 15:36:16.054] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.054] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5ae2c2ab
+[08May2025 15:36:16.054] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.054] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2c7807bd
+[08May2025 15:36:16.054] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.054] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@40191de
+[08May2025 15:36:16.055] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.055] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5bb38aad
+[08May2025 15:36:16.055] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.055] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1708fcea
+[08May2025 15:36:16.056] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.056] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7b214459
+[08May2025 15:36:16.056] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.056] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@73a6b582
+[08May2025 15:36:16.056] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.056] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3407afb9
+[08May2025 15:36:16.057] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.057] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6438fa7f
+[08May2025 15:36:16.057] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.057] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@15ca792d
+[08May2025 15:36:16.058] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.058] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5306c4b3
+[08May2025 15:36:16.058] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.058] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5af5d30d
+[08May2025 15:36:16.059] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.059] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@79bd212e
+[08May2025 15:36:16.059] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.059] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3f783c25
+[08May2025 15:36:16.060] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.060] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5a3e5425
+[08May2025 15:36:16.060] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.060] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2e2799d4
+[08May2025 15:36:16.060] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.060] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3e03696f
+[08May2025 15:36:16.061] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.061] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@40e4e39e
+[08May2025 15:36:16.062] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.064] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@685308db
+[08May2025 15:36:16.064] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.064] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7a28d53c
+[08May2025 15:36:16.064] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.064] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5f459307
+[08May2025 15:36:16.064] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.064] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@38da6362
+[08May2025 15:36:16.064] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.064] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@483fb172
+[08May2025 15:36:16.065] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.065] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@74020c7c
+[08May2025 15:36:16.065] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:16.065] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@72c6450
+[08May2025 15:36:16.065] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/3538, l='ServerLevel[world]', x=-87.13, y=71.00, z=218.43]
+[08May2025 15:36:17.403] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 91532373 to 2
+[08May2025 15:36:30.993] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[08May2025 15:37:16.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 15:37:16.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 15:37:30.269] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[08May2025 15:38:47.799] [IO-Worker-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31

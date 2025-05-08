@@ -10279,6 +10279,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-08 21:49:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/nether_gold_mine": {
     "criteria": {
       "has_mine": "2025-05-08 21:42:16 +0000"
@@ -10366,6 +10372,12 @@
   "securitycraft:recipes/building_blocks/deepslate_gold_mine": {
     "criteria": {
       "has_mine": "2025-05-08 21:42:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-08 21:49:39 +0000"
     },
     "done": true
   },

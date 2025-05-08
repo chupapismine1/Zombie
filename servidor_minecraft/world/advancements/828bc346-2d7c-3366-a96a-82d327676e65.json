@@ -77,6 +77,7 @@
       "minecraft:snowy_slopes": "2025-05-03 02:36:39 +0000",
       "minecraft:taiga": "2025-04-27 23:06:23 +0000",
       "minecraft:deep_ocean": "2025-05-03 03:27:16 +0000",
+      "minecraft:cherry_grove": "2025-05-08 17:57:04 +0000",
       "minecraft:birch_forest": "2025-05-01 23:16:02 +0000",
       "minecraft:savanna_plateau": "2025-05-01 23:36:40 +0000",
       "minecraft:beach": "2025-05-03 03:35:51 +0000",
@@ -9940,6 +9941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-05-08 17:57:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-05-08 17:37:49 +0000"
@@ -9961,6 +9968,18 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_blue_orchid": "2025-05-08 17:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-08 18:01:42 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/pink_dye_from_joe_pye": {
+    "criteria": {
+      "has_joe_pye": "2025-05-08 17:57:22 +0000"
     },
     "done": true
   },
@@ -9994,9 +10013,21 @@
     },
     "done": true
   },
+  "bbb:recipes/cherry_wall": {
+    "criteria": {
+      "has_logs": "2025-05-08 17:57:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_tomato": "2025-05-08 17:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-08 17:57:14 +0000"
     },
     "done": true
   },
@@ -10048,9 +10079,33 @@
     },
     "done": true
   },
+  "bbb:recipes/cherry_pallet": {
+    "criteria": {
+      "has_planks": "2025-05-08 17:57:14 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_beam": {
+    "criteria": {
+      "has_log": "2025-05-08 17:57:14 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_frame": {
+    "criteria": {
+      "has_planks": "2025-05-08 17:57:14 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/stackable_book": {
     "criteria": {
       "has_stackable_book": "2025-05-08 17:43:02 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/cherry_palisade": {
+    "criteria": {
+      "has_log": "2025-05-08 17:57:14 +0000"
     },
     "done": true
   },

@@ -1447,3 +1447,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08May2025 17:48:18.286] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
 [08May2025 17:48:22.323] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
 [08May2025 17:48:44.712] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[08May2025 17:53:35.159] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[08May2025 18:00:00.551] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[08May2025 18:01:42.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 has made the advancement [Best Friends Forever]

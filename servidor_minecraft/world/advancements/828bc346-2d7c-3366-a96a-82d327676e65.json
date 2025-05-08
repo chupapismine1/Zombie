@@ -93,6 +93,7 @@
       "minecraft:ocean": "2025-05-01 03:29:39 +0000",
       "minecraft:jungle": "2025-05-02 17:30:23 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-01 23:01:01 +0000",
+      "minecraft:flower_forest": "2025-05-08 18:20:58 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-01 23:15:40 +0000",
       "minecraft:meadow": "2025-05-02 00:53:21 +0000",
       "minecraft:savanna": "2025-05-01 23:35:14 +0000",
@@ -9965,6 +9966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-08 18:13:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_blue_orchid": "2025-05-08 17:44:47 +0000"
@@ -10043,6 +10050,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-05-08 18:13:39 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/yellow_dye_from_genisteae": {
     "criteria": {
       "has_genisteae": "2025-05-08 17:29:27 +0000"
@@ -10058,6 +10071,12 @@
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-05-08 17:40:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-05-08 18:13:39 +0000"
     },
     "done": true
   },
@@ -10112,6 +10131,12 @@
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-05-08 17:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-08 18:13:39 +0000"
     },
     "done": true
   },

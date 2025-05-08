@@ -1229,3 +1229,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08May2025 03:51:50.971] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of sigan_viendo01 (18)
 [08May2025 03:51:50.974] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sigan_viendo01
 [08May2025 03:52:02.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2445ms or 48 ticks behind
+[08May2025 04:48:04.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigan_viendo01 lost connection: Disconnected
+[08May2025 04:48:04.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 left the game
+[08May2025 04:48:04.191] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sigan_viendo01

@@ -1,34 +1,34 @@
-[07May2025 19:34:41.532] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[07May2025 19:34:41.537] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[07May2025 19:34:43.871] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[07May2025 19:34:43.933] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Zombie/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[07May2025 19:34:44.527] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Zombie/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
-[07May2025 19:34:44.529] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Zombie/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[07May2025 19:34:44.530] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Zombie/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[07May2025 19:34:44.531] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Zombie/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[07May2025 19:34:45.530] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[07May2025 19:34:45.530] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[07May2025 19:34:45.532] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 44 dependencies adding them to mods collection
-[07May2025 19:34:45.978] [main/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Starting runtime mappings setup...
-[07May2025 19:34:46.006] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
-[07May2025 19:34:46.023] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Injected Jimfs file system
-[07May2025 19:34:46.038] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Skipped loading script mods from directory /workspaces/Zombie/servidor_minecraft/mods/scripts as it did not exist.
-[07May2025 19:34:46.054] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
-[07May2025 19:34:48.948] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Loaded runtime mappings in 2886ms
-[07May2025 19:34:48.949] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Finished runtime mappings setup.
-[07May2025 19:34:52.324] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[07May2025 19:34:52.354] [main/ERROR] [mixin/]: Mixin config gamemenuremovegfarb-common.mixins.json does not specify "minVersion" property
-[07May2025 19:34:52.366] [main/ERROR] [mixin/]: Mixin config bbb.mixins.json does not specify "minVersion" property
-[07May2025 19:34:52.384] [main/ERROR] [mixin/]: Mixin config forge-combatlog-common.mixins.json does not specify "minVersion" property
-[07May2025 19:34:52.387] [main/ERROR] [mixin/]: Mixin config forge-combatlog.mixins.json does not specify "minVersion" property
-[07May2025 19:34:52.742] [main/ERROR] [mixin/]: Mixin config scaling_mobs.mixin.json does not specify "minVersion" property
-[07May2025 19:34:53.059] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[07May2025 19:34:53.063] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[07May2025 19:34:53.084] [main/WARN] [mixin/]: Reference map 'createdeco-forge-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
-[07May2025 19:34:53.127] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 223 options available, 0 override(s) found
-[07May2025 19:34:53.160] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
-[07May2025 19:34:53.261] [main/WARN] [mixin/]: Reference map 'fastpaintings-forge-refmap.json' for fastpaintings-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[07May2025 19:34:53.346] [main/INFO] [Puzzles Lib/]: Loading 178 mods:
+[08May2025 03:45:16.546] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[08May2025 03:45:16.553] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[08May2025 03:45:20.200] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[08May2025 03:45:20.274] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Zombie/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[08May2025 03:45:21.460] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Zombie/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[08May2025 03:45:21.462] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Zombie/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[08May2025 03:45:21.463] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Zombie/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[08May2025 03:45:21.464] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Zombie/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[08May2025 03:45:23.790] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[08May2025 03:45:23.790] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[08May2025 03:45:23.793] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 44 dependencies adding them to mods collection
+[08May2025 03:45:24.505] [main/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Starting runtime mappings setup...
+[08May2025 03:45:24.599] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
+[08May2025 03:45:24.613] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Injected Jimfs file system
+[08May2025 03:45:24.646] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Skipped loading script mods from directory /workspaces/Zombie/servidor_minecraft/mods/scripts as it did not exist.
+[08May2025 03:45:24.662] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
+[08May2025 03:45:28.521] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Loaded runtime mappings in 3628ms
+[08May2025 03:45:28.523] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Finished runtime mappings setup.
+[08May2025 03:45:30.738] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[08May2025 03:45:30.774] [main/ERROR] [mixin/]: Mixin config gamemenuremovegfarb-common.mixins.json does not specify "minVersion" property
+[08May2025 03:45:30.787] [main/ERROR] [mixin/]: Mixin config bbb.mixins.json does not specify "minVersion" property
+[08May2025 03:45:30.800] [main/ERROR] [mixin/]: Mixin config forge-combatlog-common.mixins.json does not specify "minVersion" property
+[08May2025 03:45:30.804] [main/ERROR] [mixin/]: Mixin config forge-combatlog.mixins.json does not specify "minVersion" property
+[08May2025 03:45:31.162] [main/ERROR] [mixin/]: Mixin config scaling_mobs.mixin.json does not specify "minVersion" property
+[08May2025 03:45:31.399] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[08May2025 03:45:31.404] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[08May2025 03:45:31.424] [main/WARN] [mixin/]: Reference map 'createdeco-forge-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2025 03:45:31.489] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 223 options available, 0 override(s) found
+[08May2025 03:45:31.519] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2025 03:45:31.593] [main/WARN] [mixin/]: Reference map 'fastpaintings-forge-refmap.json' for fastpaintings-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2025 03:45:31.656] [main/INFO] [Puzzles Lib/]: Loading 178 mods:
 	- ageingspawners 2.0.0
 	- aiycrates 1.0.0
 	- alexsmobs 1.22.9
@@ -208,259 +208,1024 @@
 	- xray_snitch 1.1
 	- yungsapi 1.20-Forge-4.0.6
 	- zombieawareness 1.20.1-1.13.1
-[07May2025 19:34:53.681] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[07May2025 19:34:53.790] [main/WARN] [mixin/]: Reference map 'packetfixer-forge-forge-refmap.json' for packetfixer-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[07May2025 19:34:54.844] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[07May2025 19:34:54.866] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[07May2025 19:34:55.144] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/MultiPlayerGameMode for invalid dist DEDICATED_SERVER
-[07May2025 19:34:55.145] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/multiplayer/MultiPlayerGameMode (java.lang.RuntimeException: Attempted to load class net/minecraft/client/multiplayer/MultiPlayerGameMode for invalid dist DEDICATED_SERVER)
-[07May2025 19:34:55.145] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.multiplayer.MultiPlayerGameMode was not found mixins.cofhcore.json:MultiPlayerGameModeMixin
-[07May2025 19:34:56.000] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/common/ConfigCommon (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.common.ConfigCommon)
-[07May2025 19:34:56.003] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[07May2025 19:34:56.003] [main/WARN] [mixin/]: @Mixin target com.firemerald.additionalplacements.block.AdditionalPlacementBlock was not found copycats-common.mixins.json:compat.additionalplacements.PlacementBlockMixin
-[07May2025 19:34:56.020] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
-[07May2025 19:34:56.067] [main/WARN] [mixin/]: Error loading class: cjminecraft/doubleslabs/common/config/DSConfig$Common (java.lang.ClassNotFoundException: cjminecraft.doubleslabs.common.config.DSConfig$Common)
-[07May2025 19:34:56.778] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[07May2025 19:34:56.784] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[07May2025 19:34:56.855] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[07May2025 19:34:57.319] [main/INFO] [Smooth Boot (Reloaded)/]: Smooth Boot (Reloaded) config initialized
-[07May2025 19:34:58.136] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[07May2025 19:34:58.138] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[07May2025 19:34:59.554] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[07May2025 19:34:59.585] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[07May2025 19:34:59.662] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[07May2025 19:34:59.671] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[07May2025 19:34:59.680] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[07May2025 19:35:00.488] [main/WARN] [mixin/]: @Redirect conflict. Skipping securitycraft.mixins.json:camera.ServerPlayerMixin->@Redirect::securitycraft$tick(Lnet/minecraft/server/level/ServerPlayer;DDDFF)V with priority 1100, already redirected by railways-common.mixins.json:conductor_possession.ServerPlayerMixin->@Redirect::railways$securitycraft$tick(Lnet/minecraft/server/level/ServerPlayer;DDDFF)V with priority 1200
-[07May2025 19:35:00.644] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[07May2025 19:35:00.645] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[07May2025 19:35:02.608] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$bfg000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[07May2025 19:35:03.910] [main/INFO] [org.groovymc.gml.internal.ModExtensionLoader/]: Skipping extension class org.groovymc.cgl.api.extension.client.MinecraftExtensions: it requires dist CLIENT, but we're running on DEDICATED_SERVER
-[07May2025 19:35:04.309] [modloading-worker-0/INFO] [satako/]: Satako loaded
-[07May2025 19:35:04.517] [modloading-worker-0/INFO] [Create Deco/]: Registering items for Create Deco
-[07May2025 19:35:04.521] [modloading-worker-0/INFO] [hordes/]: Trying to load common config
-[07May2025 19:35:04.534] [modloading-worker-0/INFO] [hordes/]: Trying to load client config
-[07May2025 19:35:04.541] [modloading-worker-0/INFO] [hordes/]: Config files are up to date, skipping data/asset generation
-[07May2025 19:35:04.986] [modloading-worker-0/INFO] [Create Deco/]: Registering blocks for Create Deco
-[07May2025 19:35:05.089] [modloading-worker-0/INFO] [gml/]: Initialised GML mod. Version: 4.0.9
-[07May2025 19:35:05.525] [modloading-worker-0/INFO] [noisium/]: Loading Noisium.
-[07May2025 19:35:05.599] [modloading-worker-0/INFO] [pointblank/]: Loading mod pointblank
-[07May2025 19:35:05.617] [modloading-worker-0/INFO] [unilib/]: Disabling UniLib, as it is client side only.
-[07May2025 19:35:05.672] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
-[07May2025 19:35:06.628] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
-[07May2025 19:35:06.631] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
-[07May2025 19:35:06.753] [modloading-worker-0/INFO] [de.keksuccino.drippyloadingscreen.DrippyLoadingScreen/]: [DRIPPY LOADING SCREEN] Loading v3.0.9 in server-side mode on FORGE!
-[07May2025 19:35:07.619] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[07May2025 19:35:07.695] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[07May2025 19:35:07.775] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event...
-[07May2025 19:35:07.838] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.TagsFeature
-[07May2025 19:35:07.848] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.FixFeature
-[07May2025 19:35:07.859] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.BaseFeature
-[07May2025 19:35:07.860] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.AEC3DFeature
-[07May2025 19:35:08.093] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[07May2025 19:35:08.211] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[07May2025 19:35:08.212] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[07May2025 19:35:08.212] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[07May2025 19:35:08.212] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[07May2025 19:35:08.212] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[07May2025 19:35:08.213] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[07May2025 19:35:08.213] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[07May2025 19:35:08.318] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
-[07May2025 19:35:08.421] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
-[07May2025 19:35:08.614] [modloading-worker-0/INFO] [de.keksuccino.melody.Melody/]: [MELODY] Disabling Melody since it's loaded server-side.
-[07May2025 19:35:08.633] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[07May2025 19:35:08.633] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[07May2025 19:35:09.000] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
-[07May2025 19:35:09.205] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[07May2025 19:35:09.210] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[07May2025 19:35:09.253] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
-[07May2025 19:35:09.254] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id walkietalkie:updatewalkietalkie_c2s
-[07May2025 19:35:09.260] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id walkietalkie:updatespeaker_c2s
-[07May2025 19:35:09.260] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id walkietalkie:activatekeypressed_c2s
-[07May2025 19:35:09.266] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
-[07May2025 19:35:09.268] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
-[07May2025 19:35:09.274] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
-[07May2025 19:35:09.278] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
-[07May2025 19:35:09.285] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id pandalib:config_sync
-[07May2025 19:35:09.290] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[07May2025 19:35:09.423] [modloading-worker-0/INFO] [fallingtrees | Config/]: Successfully loaded config 'fallingtrees_common'
-[07May2025 19:35:09.429] [modloading-worker-0/INFO] [fallingtrees | Config/]: Successfully saved config 'fallingtrees_common'
-[07May2025 19:35:09.491] [modloading-worker-0/INFO] [KubeJS/]: Loaded common.properties
-[07May2025 19:35:09.492] [modloading-worker-0/INFO] [KubeJS/]: Loaded dev.properties
-[07May2025 19:35:09.517] [modloading-worker-0/INFO] [KubeJS/]: Looking for KubeJS plugins...
-[07May2025 19:35:09.536] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs
-[07May2025 19:35:09.552] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin does not load on server side, skipping
-[07May2025 19:35:09.552] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration does not have required mod gamestages loaded, skipping
-[07May2025 19:35:09.563] [modloading-worker-0/INFO] [KubeJS/]: Done in 48.12 ms
-[07May2025 19:35:09.989] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading Rhino Minecraft remapper...
-[07May2025 19:35:09.994] [modloading-worker-0/INFO] [dev.latvian.mods.rhino.mod.util.RhinoProperties/]: Rhino properties loaded.
-[07May2025 19:35:10.002] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading mappings for 1.20.1
-[07May2025 19:35:10.129] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Done in 0.140 s
-[07May2025 19:35:10.752] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
-[07May2025 19:35:10.835] [modloading-worker-0/ERROR] [toastcontrol/]: Running on a dedicated server, disabling mod.
-[07May2025 19:35:10.969] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:matt's_stims_startup.js in 0.169 s
-[07May2025 19:35:10.970] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:disabledOres.js in 0.001 s
-[07May2025 19:35:11.025] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:cwstartuptweaks.js in 0.006 s
-[07May2025 19:35:11.036] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded 3/3 KubeJS startup scripts in 0.893 s with 0 errors and 0 warnings
-[07May2025 19:35:11.258] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:send_data_from_client
-[07May2025 19:35:11.263] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:first_click
-[07May2025 19:35:11.277] [modloading-worker-0/INFO] [de.keksuccino.fancymenu.FancyMenu/]: [FANCYMENU] Loading v3.3.2 in server-side mode on FORGE!
-[07May2025 19:35:11.336] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
-[07May2025 19:35:11.378] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 1 milliseconds
-[07May2025 19:35:11.401] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
-[07May2025 19:35:11.406] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
-[07May2025 19:35:11.407] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
-[07May2025 19:35:11.410] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
-[07May2025 19:35:11.411] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
-[07May2025 19:35:11.412] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
-[07May2025 19:35:11.416] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
-[07May2025 19:35:11.418] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
-[07May2025 19:35:11.419] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
-[07May2025 19:35:11.449] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[07May2025 19:35:11.474] [modloading-worker-0/INFO] [dev.tonimatas.packetfixer.PacketFixer/]: Packet Fixer has been initialized successfully
-[07May2025 19:35:14.529] [main/INFO] [Moonlight/]: Initialized block sets in 17ms
-[07May2025 19:35:14.597] [main/INFO] [Create Deco/]: placard tooltip was null
-[07May2025 19:35:14.597] [main/INFO] [Create Deco/]: placard tooltip was null
-[07May2025 19:35:14.597] [main/INFO] [Create Deco/]: placard tooltip was null
-[07May2025 19:35:14.597] [main/INFO] [Create Deco/]: placard tooltip was null
-[07May2025 19:35:14.597] [main/INFO] [Create Deco/]: placard tooltip was null
-[07May2025 19:35:14.597] [main/INFO] [Create Deco/]: placard tooltip was null
-[07May2025 19:35:14.597] [main/INFO] [Create Deco/]: placard tooltip was null
-[07May2025 19:35:14.597] [main/INFO] [Create Deco/]: placard tooltip was null
-[07May2025 19:35:14.598] [main/INFO] [Create Deco/]: placard tooltip was null
-[07May2025 19:35:14.598] [main/INFO] [Create Deco/]: placard tooltip was null
-[07May2025 19:35:14.598] [main/INFO] [Create Deco/]: placard tooltip was null
-[07May2025 19:35:14.598] [main/INFO] [Create Deco/]: placard tooltip was null
-[07May2025 19:35:14.598] [main/INFO] [Create Deco/]: placard tooltip was null
-[07May2025 19:35:14.598] [main/INFO] [Create Deco/]: placard tooltip was null
-[07May2025 19:35:14.598] [main/INFO] [Create Deco/]: placard tooltip was null
-[07May2025 19:35:15.608] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / bloomingnature:wandering_gardener] was not realized!
-[07May2025 19:35:15.609] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / bloomingnature:termite] was not realized!
-[07May2025 19:35:16.058] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[07May2025 19:35:16.071] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[07May2025 19:35:16.075] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[07May2025 19:35:16.078] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[07May2025 19:35:16.296] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
-[07May2025 19:35:16.297] [Thread-5/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
-[07May2025 19:35:16.614] [modloading-worker-0/INFO] [io.github.jamalam360.rightclickharvest.RightClickHarvestModInit/]: Initialized
-[07May2025 19:35:16.661] [modloading-worker-0/INFO] [com.forgivingworld.ForgivingWorldMod/]: forgivingworld mod initialized
-[07May2025 19:35:16.718] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gamemenuremovegfarb] Starting version check at https://raw.githubusercontent.com/MORIMORI0317/GameMenuRemoveGFARB/master/version_check.json
-[07May2025 19:35:16.738] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[07May2025 19:35:16.883] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[07May2025 19:35:16.915] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 2 plugin(s)
-[07May2025 19:35:16.915] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[07May2025 19:35:16.950] [modloading-worker-0/INFO] [incontrol/]: Enabling support for Lost Cities
-[07May2025 19:35:16.951] [modloading-worker-0/INFO] [incontrol/]: Enabling support for Lost Cities
-[07May2025 19:35:16.952] [modloading-worker-0/INFO] [incontrol/]: Enabling support for Serene Seasons
-[07May2025 19:35:16.952] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
-[07May2025 19:35:16.953] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 2 plugin(s)
-[07May2025 19:35:16.956] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
-[07May2025 19:35:16.966] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'walkietalkie'
-[07May2025 19:35:16.989] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gamemenuremovegfarb] Found status: UP_TO_DATE Current: 2.1.2 Target: null
-[07May2025 19:35:16.990] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hordes] Starting version check at https://raw.githubusercontent.com/SmileycorpMC/The-Hordes/1.20/update.json
-[07May2025 19:35:16.993] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[07May2025 19:35:17.012] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hordes] Found status: UP_TO_DATE Current: 1.5.4 Target: null
-[07May2025 19:35:17.013] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[07May2025 19:35:17.212] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
-[07May2025 19:35:17.287] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
-[07May2025 19:35:17.404] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[07May2025 19:35:17.404] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[07May2025 19:35:17.582] [modloading-worker-0/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Initialized enhancedcelestials network!
-[07May2025 19:35:17.586] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
-[07May2025 19:35:17.600] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
-[07May2025 19:35:17.914] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.19 Target: 1.20.1-1.0.20
-[07May2025 19:35:17.915] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Starting version check at https://maven.moddinginquisition.org/releases/org/groovymc/gml/gml/forge-promotions.json
-[07May2025 19:35:17.994] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[07May2025 19:35:18.043] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[07May2025 19:35:18.043] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[07May2025 19:35:18.043] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[07May2025 19:35:18.043] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[07May2025 19:35:18.043] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[07May2025 19:35:18.044] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[07May2025 19:35:18.044] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[07May2025 19:35:18.044] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
-[07May2025 19:35:18.144] [main/INFO] [Moonlight/]: Initialized color sets in 54ms
-[07May2025 19:35:18.331] [modloading-worker-0/ERROR] [ihh.propertymodifier.Logger/]: Could not find rarity  mentioned in entry "test" = 
-[07May2025 19:35:18.375] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Found status: BETA Current: 4.0.9 Target: null
-[07May2025 19:35:18.375] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
-[07May2025 19:35:18.442] [modloading-worker-0/ERROR] [ihh.propertymodifier.Logger/]: Could not find rarity  mentioned in entry "test" = 
-[07May2025 19:35:18.721] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
-[07May2025 19:35:18.721] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [atlaslib] Starting version check at https://raw.githubusercontent.com/SmileycorpMC/Atlas-Lib/1.20/update.json
-[07May2025 19:35:18.731] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [atlaslib] Found status: UP_TO_DATE Current: 1.1.12 Target: null
-[07May2025 19:35:18.732] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [unilib] Starting version check at https://raw.githubusercontent.com/CDAGaming/VersionLibrary/master/UniLib/update.json
-[07May2025 19:35:18.752] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [unilib] Found status: AHEAD Current: 1.0.4 Target: null
-[07May2025 19:35:18.753] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [strayed_fates_forsaken] Starting version check at https://api.modrinth.com/updates/3GGOgUqD/forge_updates.json
-[07May2025 19:35:18.879] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [strayed_fates_forsaken] Found status: UP_TO_DATE Current: 1.1.3.2 Target: null
-[07May2025 19:35:18.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
-[07May2025 19:35:18.917] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: OUTDATED Current: 3.3.0 Target: 3.4.0
-[07May2025 19:35:18.917] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
-[07May2025 19:35:18.933] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
-[07May2025 19:35:18.934] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.20.1
-[07May2025 19:35:19.040] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA_OUTDATED Current: 14.0.48 Target: 14.0.57
-[07May2025 19:35:19.041] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[07May2025 19:35:19.053] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[07May2025 19:35:19.053] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[07May2025 19:35:19.210] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.0 Target: 47.4.0
-[07May2025 19:35:19.211] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Starting version check at https://raw.github.com/cofh/version/main/cofh_core/update.json
-[07May2025 19:35:19.268] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Found status: AHEAD Current: 11.0.2 Target: null
-[07May2025 19:35:19.268] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[07May2025 19:35:19.369] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.26 Target: 1.20.1-2.5.30
-[07May2025 19:35:19.369] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[07May2025 19:35:19.470] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.8 Target: 1.20.1-1.4.13
-[07May2025 19:35:19.471] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createtweaker] Starting version check at https://updates.blamejared.com/get?n=createtweaker&gv=1.20.1
-[07May2025 19:35:19.571] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createtweaker] Found status: BETA_OUTDATED Current: 4.0.13 Target: 4.0.15
-[07May2025 19:35:19.572] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[07May2025 19:35:19.606] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[07May2025 19:35:19.607] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[07May2025 19:35:19.708] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.12 Target: 1.10
-[07May2025 19:35:19.708] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [regrowth] Starting version check at https://github.com/mactso/Regrowth/raw/main/update.json
-[07May2025 19:35:19.731] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [regrowth] Found status: BETA_OUTDATED Current: 46.31.2 Target: 52.31.2
-[07May2025 19:35:19.731] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ambientenvironment] Starting version check at https://updates.blamejared.com/get?n=AmbientEnvironment&gv=1.20.1
-[07May2025 19:35:19.833] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ambientenvironment] Found status: BETA Current: 11.0.0.1 Target: 11.0.0.1
-[07May2025 19:35:19.834] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[07May2025 19:35:19.848] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.25 Target: 8.1.32
-[07May2025 19:35:19.848] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json
-[07May2025 19:35:19.887] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: UP_TO_DATE Current: 1.8.2+mod Target: null
-[07May2025 19:35:19.888] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[07May2025 19:35:19.993] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[07May2025 19:35:19.993] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[07May2025 19:35:20.254] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.1.4.346 Target: null
-[07May2025 19:35:20.255] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[07May2025 19:35:20.604] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA_OUTDATED Current: 1.0.8 Target: 1.0.12
-[07May2025 19:35:20.604] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[07May2025 19:35:21.024] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[07May2025 19:35:21.025] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Starting version check at https://raw.githubusercontent.com/copycats-plus/copycats/multiloader/update.json
-[07May2025 19:35:21.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Found status: AHEAD Current: 2.1.4+mc.1.20.1-forge Target: null
-[07May2025 19:35:21.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [badmobs] Starting version check at https://updates.blamejared.com/get?n=badmobs&gv=1.20.1
-[07May2025 19:35:21.135] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [badmobs] Found status: BETA Current: 19.0.4 Target: 19.0.4
-[07May2025 19:35:21.135] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[07May2025 19:35:21.146] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.47 Target: null
-[07May2025 19:35:21.146] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Starting version check at https://github.com/AbdElAziz333/SmoothBoot-Reloaded/raw/mc1.20.1/dev/updates.json
-[07May2025 19:35:21.168] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Found status: UP_TO_DATE Current: 0.0.4 Target: null
-[07May2025 19:35:21.168] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [packetfixer] Starting version check at https://api.modrinth.com/updates/packet-fixer/forge_updates.json
-[07May2025 19:35:21.207] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [packetfixer] Found status: OUTDATED Current: 1.4.3 Target: 2.0.0
-[07May2025 19:35:21.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [openloader] Starting version check at https://updates.blamejared.com/get?n=openloader&gv=1.20.1
-[07May2025 19:35:21.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [openloader] Found status: BETA Current: 19.0.4 Target: 19.0.4
-[07May2025 19:35:30.039] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[07May2025 19:35:30.138] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
-net.minecraft.util.DirectoryLock$LockException: /workspaces/Zombie/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
-	at net.minecraft.util.DirectoryLock$LockException.m_13648_(DirectoryLock.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
-	at net.minecraft.util.DirectoryLock.m_13640_(DirectoryLock.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
-	at net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.<init>(LevelStorageSource.java:404) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
-	at net.minecraft.world.level.storage.LevelStorageSource.m_289864_(LevelStorageSource.java:342) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
-	at net.minecraft.server.Main.main(Main.java:141) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
-	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
-	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
-	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.0.jar%2369!/:?]
-	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.0.jar%2369!/:?]
-	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.0.jar%2369!/:?]
-	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[08May2025 03:45:31.970] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2025 03:45:32.068] [main/WARN] [mixin/]: Reference map 'packetfixer-forge-forge-refmap.json' for packetfixer-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2025 03:45:33.011] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[08May2025 03:45:33.036] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[08May2025 03:45:33.320] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/MultiPlayerGameMode for invalid dist DEDICATED_SERVER
+[08May2025 03:45:33.321] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/multiplayer/MultiPlayerGameMode (java.lang.RuntimeException: Attempted to load class net/minecraft/client/multiplayer/MultiPlayerGameMode for invalid dist DEDICATED_SERVER)
+[08May2025 03:45:33.322] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.multiplayer.MultiPlayerGameMode was not found mixins.cofhcore.json:MultiPlayerGameModeMixin
+[08May2025 03:45:34.202] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/common/ConfigCommon (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.common.ConfigCommon)
+[08May2025 03:45:34.206] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[08May2025 03:45:34.206] [main/WARN] [mixin/]: @Mixin target com.firemerald.additionalplacements.block.AdditionalPlacementBlock was not found copycats-common.mixins.json:compat.additionalplacements.PlacementBlockMixin
+[08May2025 03:45:34.223] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[08May2025 03:45:34.259] [main/WARN] [mixin/]: Error loading class: cjminecraft/doubleslabs/common/config/DSConfig$Common (java.lang.ClassNotFoundException: cjminecraft.doubleslabs.common.config.DSConfig$Common)
+[08May2025 03:45:35.030] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[08May2025 03:45:35.037] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[08May2025 03:45:35.132] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[08May2025 03:45:35.705] [main/INFO] [Smooth Boot (Reloaded)/]: Smooth Boot (Reloaded) config initialized
+[08May2025 03:45:36.462] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[08May2025 03:45:36.464] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[08May2025 03:45:39.362] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[08May2025 03:45:39.490] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[08May2025 03:45:39.683] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[08May2025 03:45:39.704] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[08May2025 03:45:39.722] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[08May2025 03:45:40.916] [main/WARN] [mixin/]: @Redirect conflict. Skipping securitycraft.mixins.json:camera.ServerPlayerMixin->@Redirect::securitycraft$tick(Lnet/minecraft/server/level/ServerPlayer;DDDFF)V with priority 1100, already redirected by railways-common.mixins.json:conductor_possession.ServerPlayerMixin->@Redirect::railways$securitycraft$tick(Lnet/minecraft/server/level/ServerPlayer;DDDFF)V with priority 1200
+[08May2025 03:45:41.151] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[08May2025 03:45:41.151] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[08May2025 03:45:44.198] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$bfg000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[08May2025 03:45:45.889] [main/INFO] [org.groovymc.gml.internal.ModExtensionLoader/]: Skipping extension class org.groovymc.cgl.api.extension.client.MinecraftExtensions: it requires dist CLIENT, but we're running on DEDICATED_SERVER
+[08May2025 03:45:46.390] [modloading-worker-0/INFO] [satako/]: Satako loaded
+[08May2025 03:45:46.484] [modloading-worker-0/INFO] [hordes/]: Trying to load common config
+[08May2025 03:45:46.496] [modloading-worker-0/INFO] [Create Deco/]: Registering items for Create Deco
+[08May2025 03:45:46.503] [modloading-worker-0/INFO] [hordes/]: Trying to load client config
+[08May2025 03:45:46.531] [modloading-worker-0/INFO] [hordes/]: Config files are up to date, skipping data/asset generation
+[08May2025 03:45:46.925] [modloading-worker-0/INFO] [Create Deco/]: Registering blocks for Create Deco
+[08May2025 03:45:47.336] [modloading-worker-0/INFO] [gml/]: Initialised GML mod. Version: 4.0.9
+[08May2025 03:45:47.911] [modloading-worker-0/INFO] [noisium/]: Loading Noisium.
+[08May2025 03:45:47.936] [modloading-worker-0/INFO] [pointblank/]: Loading mod pointblank
+[08May2025 03:45:47.956] [modloading-worker-0/INFO] [unilib/]: Disabling UniLib, as it is client side only.
+[08May2025 03:45:48.172] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[08May2025 03:45:48.929] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
+[08May2025 03:45:48.929] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
+[08May2025 03:45:49.013] [modloading-worker-0/INFO] [de.keksuccino.drippyloadingscreen.DrippyLoadingScreen/]: [DRIPPY LOADING SCREEN] Loading v3.0.9 in server-side mode on FORGE!
+[08May2025 03:45:49.985] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[08May2025 03:45:50.076] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[08May2025 03:45:50.121] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event...
+[08May2025 03:45:50.190] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.TagsFeature
+[08May2025 03:45:50.213] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.FixFeature
+[08May2025 03:45:50.216] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.BaseFeature
+[08May2025 03:45:50.220] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.AEC3DFeature
+[08May2025 03:45:50.441] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[08May2025 03:45:50.560] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[08May2025 03:45:50.560] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[08May2025 03:45:50.561] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[08May2025 03:45:50.561] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[08May2025 03:45:50.561] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[08May2025 03:45:50.561] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[08May2025 03:45:50.561] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[08May2025 03:45:50.702] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[08May2025 03:45:50.831] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
+[08May2025 03:45:50.996] [modloading-worker-0/INFO] [de.keksuccino.melody.Melody/]: [MELODY] Disabling Melody since it's loaded server-side.
+[08May2025 03:45:51.014] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[08May2025 03:45:51.014] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[08May2025 03:45:51.479] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
+[08May2025 03:45:51.800] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[08May2025 03:45:51.804] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[08May2025 03:45:51.806] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id walkietalkie:updatewalkietalkie_c2s
+[08May2025 03:45:51.808] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id walkietalkie:updatespeaker_c2s
+[08May2025 03:45:51.809] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id walkietalkie:activatekeypressed_c2s
+[08May2025 03:45:51.852] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id pandalib:config_sync
+[08May2025 03:45:51.871] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[08May2025 03:45:51.874] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
+[08May2025 03:45:51.884] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
+[08May2025 03:45:51.892] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
+[08May2025 03:45:51.895] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
+[08May2025 03:45:51.899] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
+[08May2025 03:45:51.981] [modloading-worker-0/INFO] [fallingtrees | Config/]: Successfully loaded config 'fallingtrees_common'
+[08May2025 03:45:51.986] [modloading-worker-0/INFO] [fallingtrees | Config/]: Successfully saved config 'fallingtrees_common'
+[08May2025 03:45:52.954] [modloading-worker-0/INFO] [KubeJS/]: Loaded common.properties
+[08May2025 03:45:52.956] [modloading-worker-0/INFO] [KubeJS/]: Loaded dev.properties
+[08May2025 03:45:52.969] [modloading-worker-0/INFO] [KubeJS/]: Looking for KubeJS plugins...
+[08May2025 03:45:52.986] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs
+[08May2025 03:45:53.032] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin does not load on server side, skipping
+[08May2025 03:45:53.033] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration does not have required mod gamestages loaded, skipping
+[08May2025 03:45:53.044] [modloading-worker-0/INFO] [KubeJS/]: Done in 74.86 ms
+[08May2025 03:45:53.518] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
+[08May2025 03:45:53.602] [modloading-worker-0/ERROR] [toastcontrol/]: Running on a dedicated server, disabling mod.
+[08May2025 03:45:54.031] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading Rhino Minecraft remapper...
+[08May2025 03:45:54.036] [modloading-worker-0/INFO] [dev.latvian.mods.rhino.mod.util.RhinoProperties/]: Rhino properties loaded.
+[08May2025 03:45:54.056] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading mappings for 1.20.1
+[08May2025 03:45:54.202] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Done in 0.170 s
+[08May2025 03:45:54.262] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
+[08May2025 03:45:54.302] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 3 milliseconds
+[08May2025 03:45:54.305] [modloading-worker-0/INFO] [de.keksuccino.fancymenu.FancyMenu/]: [FANCYMENU] Loading v3.3.2 in server-side mode on FORGE!
+[08May2025 03:45:54.330] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
+[08May2025 03:45:54.331] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
+[08May2025 03:45:54.333] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
+[08May2025 03:45:54.338] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
+[08May2025 03:45:54.339] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
+[08May2025 03:45:54.340] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
+[08May2025 03:45:54.342] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
+[08May2025 03:45:54.344] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
+[08May2025 03:45:54.344] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
+[08May2025 03:45:54.706] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[08May2025 03:45:54.731] [modloading-worker-0/INFO] [dev.tonimatas.packetfixer.PacketFixer/]: Packet Fixer has been initialized successfully
+[08May2025 03:45:55.195] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:matt's_stims_startup.js in 0.149 s
+[08May2025 03:45:55.199] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:disabledOres.js in 0.001 s
+[08May2025 03:45:55.203] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:cwstartuptweaks.js in 0.004 s
+[08May2025 03:45:55.211] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded 3/3 KubeJS startup scripts in 1.001 s with 0 errors and 0 warnings
+[08May2025 03:45:55.406] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:send_data_from_client
+[08May2025 03:45:55.412] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:first_click
+[08May2025 03:45:58.623] [main/INFO] [Moonlight/]: Initialized block sets in 22ms
+[08May2025 03:45:58.695] [main/INFO] [Create Deco/]: placard tooltip was null
+[08May2025 03:45:58.696] [main/INFO] [Create Deco/]: placard tooltip was null
+[08May2025 03:45:58.696] [main/INFO] [Create Deco/]: placard tooltip was null
+[08May2025 03:45:58.696] [main/INFO] [Create Deco/]: placard tooltip was null
+[08May2025 03:45:58.696] [main/INFO] [Create Deco/]: placard tooltip was null
+[08May2025 03:45:58.696] [main/INFO] [Create Deco/]: placard tooltip was null
+[08May2025 03:45:58.696] [main/INFO] [Create Deco/]: placard tooltip was null
+[08May2025 03:45:58.697] [main/INFO] [Create Deco/]: placard tooltip was null
+[08May2025 03:45:58.697] [main/INFO] [Create Deco/]: placard tooltip was null
+[08May2025 03:45:58.697] [main/INFO] [Create Deco/]: placard tooltip was null
+[08May2025 03:45:58.697] [main/INFO] [Create Deco/]: placard tooltip was null
+[08May2025 03:45:58.697] [main/INFO] [Create Deco/]: placard tooltip was null
+[08May2025 03:45:58.697] [main/INFO] [Create Deco/]: placard tooltip was null
+[08May2025 03:45:58.697] [main/INFO] [Create Deco/]: placard tooltip was null
+[08May2025 03:45:58.698] [main/INFO] [Create Deco/]: placard tooltip was null
+[08May2025 03:45:59.713] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / bloomingnature:wandering_gardener] was not realized!
+[08May2025 03:45:59.713] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / bloomingnature:termite] was not realized!
+[08May2025 03:46:00.221] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[08May2025 03:46:00.234] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[08May2025 03:46:00.237] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[08May2025 03:46:00.241] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[08May2025 03:46:00.497] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[08May2025 03:46:00.499] [Thread-5/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
+[08May2025 03:46:00.499] [Thread-5/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
+[08May2025 03:46:00.855] [modloading-worker-0/INFO] [io.github.jamalam360.rightclickharvest.RightClickHarvestModInit/]: Initialized
+[08May2025 03:46:00.894] [modloading-worker-0/INFO] [com.forgivingworld.ForgivingWorldMod/]: forgivingworld mod initialized
+[08May2025 03:46:00.957] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gamemenuremovegfarb] Starting version check at https://raw.githubusercontent.com/MORIMORI0317/GameMenuRemoveGFARB/master/version_check.json
+[08May2025 03:46:00.970] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[08May2025 03:46:01.134] [modloading-worker-0/INFO] [incontrol/]: Enabling support for Lost Cities
+[08May2025 03:46:01.134] [modloading-worker-0/INFO] [incontrol/]: Enabling support for Lost Cities
+[08May2025 03:46:01.135] [modloading-worker-0/INFO] [incontrol/]: Enabling support for Serene Seasons
+[08May2025 03:46:01.151] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[08May2025 03:46:01.176] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[08May2025 03:46:01.194] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 2 plugin(s)
+[08May2025 03:46:01.200] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[08May2025 03:46:01.231] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gamemenuremovegfarb] Found status: UP_TO_DATE Current: 2.1.2 Target: null
+[08May2025 03:46:01.244] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hordes] Starting version check at https://raw.githubusercontent.com/SmileycorpMC/The-Hordes/1.20/update.json
+[08May2025 03:46:01.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hordes] Found status: UP_TO_DATE Current: 1.5.4 Target: null
+[08May2025 03:46:01.260] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[08May2025 03:46:01.277] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
+[08May2025 03:46:01.277] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 2 plugin(s)
+[08May2025 03:46:01.288] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
+[08May2025 03:46:01.298] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'walkietalkie'
+[08May2025 03:46:01.490] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
+[08May2025 03:46:01.563] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
+[08May2025 03:46:01.717] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[08May2025 03:46:01.717] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[08May2025 03:46:01.966] [modloading-worker-0/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Initialized enhancedcelestials network!
+[08May2025 03:46:01.978] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[08May2025 03:46:02.031] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[08May2025 03:46:02.299] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.19 Target: 1.20.1-1.0.20
+[08May2025 03:46:02.300] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Starting version check at https://maven.moddinginquisition.org/releases/org/groovymc/gml/gml/forge-promotions.json
+[08May2025 03:46:02.695] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[08May2025 03:46:02.746] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Found status: BETA Current: 4.0.9 Target: null
+[08May2025 03:46:02.746] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
+[08May2025 03:46:02.753] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[08May2025 03:46:02.753] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[08May2025 03:46:02.753] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[08May2025 03:46:02.754] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[08May2025 03:46:02.754] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[08May2025 03:46:02.754] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[08May2025 03:46:02.754] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[08May2025 03:46:02.754] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
+[08May2025 03:46:02.853] [main/INFO] [Moonlight/]: Initialized color sets in 52ms
+[08May2025 03:46:03.064] [modloading-worker-0/ERROR] [ihh.propertymodifier.Logger/]: Could not find rarity  mentioned in entry "test" = 
+[08May2025 03:46:03.140] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
+[08May2025 03:46:03.140] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [atlaslib] Starting version check at https://raw.githubusercontent.com/SmileycorpMC/Atlas-Lib/1.20/update.json
+[08May2025 03:46:03.169] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [atlaslib] Found status: UP_TO_DATE Current: 1.1.12 Target: null
+[08May2025 03:46:03.170] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [unilib] Starting version check at https://raw.githubusercontent.com/CDAGaming/VersionLibrary/master/UniLib/update.json
+[08May2025 03:46:03.194] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [unilib] Found status: AHEAD Current: 1.0.4 Target: null
+[08May2025 03:46:03.195] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [strayed_fates_forsaken] Starting version check at https://api.modrinth.com/updates/3GGOgUqD/forge_updates.json
+[08May2025 03:46:03.209] [modloading-worker-0/ERROR] [ihh.propertymodifier.Logger/]: Could not find rarity  mentioned in entry "test" = 
+[08May2025 03:46:03.439] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [strayed_fates_forsaken] Found status: UP_TO_DATE Current: 1.1.3.2 Target: null
+[08May2025 03:46:03.439] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
+[08May2025 03:46:03.481] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: OUTDATED Current: 3.3.0 Target: 3.4.0
+[08May2025 03:46:03.481] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[08May2025 03:46:03.494] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[08May2025 03:46:03.494] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.20.1
+[08May2025 03:46:03.599] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA_OUTDATED Current: 14.0.48 Target: 14.0.57
+[08May2025 03:46:03.599] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[08May2025 03:46:03.626] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[08May2025 03:46:03.626] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08May2025 03:46:03.833] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.0 Target: 47.4.0
+[08May2025 03:46:03.834] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Starting version check at https://raw.github.com/cofh/version/main/cofh_core/update.json
+[08May2025 03:46:03.922] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Found status: AHEAD Current: 11.0.2 Target: null
+[08May2025 03:46:03.922] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[08May2025 03:46:04.031] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.26 Target: 1.20.1-2.5.30
+[08May2025 03:46:04.033] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[08May2025 03:46:04.138] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.8 Target: 1.20.1-1.4.13
+[08May2025 03:46:04.138] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createtweaker] Starting version check at https://updates.blamejared.com/get?n=createtweaker&gv=1.20.1
+[08May2025 03:46:04.245] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createtweaker] Found status: BETA_OUTDATED Current: 4.0.13 Target: 4.0.15
+[08May2025 03:46:04.245] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[08May2025 03:46:04.279] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[08May2025 03:46:04.280] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[08May2025 03:46:04.426] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.12 Target: 1.10
+[08May2025 03:46:04.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [regrowth] Starting version check at https://github.com/mactso/Regrowth/raw/main/update.json
+[08May2025 03:46:04.452] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [regrowth] Found status: BETA_OUTDATED Current: 46.31.2 Target: 52.31.2
+[08May2025 03:46:04.452] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ambientenvironment] Starting version check at https://updates.blamejared.com/get?n=AmbientEnvironment&gv=1.20.1
+[08May2025 03:46:04.555] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ambientenvironment] Found status: BETA Current: 11.0.0.1 Target: 11.0.0.1
+[08May2025 03:46:04.555] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[08May2025 03:46:04.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.25 Target: 8.1.32
+[08May2025 03:46:04.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json
+[08May2025 03:46:04.600] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: UP_TO_DATE Current: 1.8.2+mod Target: null
+[08May2025 03:46:04.601] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[08May2025 03:46:04.703] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[08May2025 03:46:04.704] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[08May2025 03:46:04.890] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.1.4.346 Target: null
+[08May2025 03:46:04.891] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[08May2025 03:46:05.076] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.0.jar%23444!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.0.jar%23444!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[08May2025 03:46:05.077] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[08May2025 03:46:05.101] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.0.jar%23444!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.0.jar%23444!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[08May2025 03:46:05.102] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Starting version check at https://raw.githubusercontent.com/copycats-plus/copycats/multiloader/update.json
+[08May2025 03:46:05.111] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Found status: AHEAD Current: 2.1.4+mc.1.20.1-forge Target: null
+[08May2025 03:46:05.111] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [badmobs] Starting version check at https://updates.blamejared.com/get?n=badmobs&gv=1.20.1
+[08May2025 03:46:05.214] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [badmobs] Found status: BETA Current: 19.0.4 Target: 19.0.4
+[08May2025 03:46:05.214] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[08May2025 03:46:05.223] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.47 Target: null
+[08May2025 03:46:05.223] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Starting version check at https://github.com/AbdElAziz333/SmoothBoot-Reloaded/raw/mc1.20.1/dev/updates.json
+[08May2025 03:46:05.242] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Found status: UP_TO_DATE Current: 0.0.4 Target: null
+[08May2025 03:46:05.242] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [packetfixer] Starting version check at https://api.modrinth.com/updates/packet-fixer/forge_updates.json
+[08May2025 03:46:05.306] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [packetfixer] Found status: OUTDATED Current: 1.4.3 Target: 2.0.0
+[08May2025 03:46:05.306] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [openloader] Starting version check at https://updates.blamejared.com/get?n=openloader&gv=1.20.1
+[08May2025 03:46:05.412] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [openloader] Found status: BETA Current: 19.0.4 Target: 19.0.4
+[08May2025 03:46:20.075] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08May2025 03:46:29.652] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Zombie/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23443!/assets/.mcassetsroot' uses unexpected schema
+[08May2025 03:46:29.652] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Zombie/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23443!/data/.mcassetsroot' uses unexpected schema
+[08May2025 03:46:29.742] [main/INFO] [Open Loader/]: Preparing Data Pack injection.
+[08May2025 03:46:29.747] [main/INFO] [Open Loader/]: Loaded archive Data Pack from /workspaces/Zombie/servidor_minecraft/config/openloader/data/no_spore_structures.zip.
+[08May2025 03:46:29.747] [main/INFO] [Open Loader/]: Successfully injected 1/1 packs from /workspaces/Zombie/servidor_minecraft/config/openloader/data.
+[08May2025 03:46:29.869] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Generated runtime SERVER_DATA for pack Immersive Weathering Generated Pack (immersive_weathering) in: 21 ms
+[08May2025 03:46:29.912] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Generated runtime SERVER_DATA for pack Immersive Weathering Generated Pack (immersive_weathering) in: 3 ms
+[08May2025 03:46:29.965] [main/INFO] [KubeJS Server/]: Loaded script server_scripts:itemRecipeBlacklist.js in 0.006 s
+[08May2025 03:46:29.968] [main/INFO] [KubeJS Server/]: Loaded script server_scripts:matt's_stims_server.js in 0.002 s
+[08May2025 03:46:29.968] [main/INFO] [KubeJS Server/]: Loaded script server_scripts:cursedwalkingrecipechanges.js in 0.0 s
+[08May2025 03:46:29.969] [main/INFO] [KubeJS Server/]: Loaded 3/3 KubeJS server scripts in 0.031 s with 0 errors and 0 warnings
+[08May2025 03:46:29.969] [main/INFO] [KubeJS Server/]: Scripts loaded
+[08May2025 03:46:29.986] [main/INFO] [KubeJS Server/]: Initializing recipe event...
+[08May2025 03:46:34.080] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[08May2025 03:46:34.465] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Invalid path in pack: create:recipes/Copper_sulfate.json, ignoring
+[08May2025 03:46:34.466] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Invalid path in pack: create:recipes/Copper_sulfate copia.json, ignoring
+[08May2025 03:46:34.475] [Worker-Main-16/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_3 as it is missing following references: netherite_ore_mod:ancientdebrisore (from Skay's Overworld Netherite RELEASE 1.20.1 Forge.jar), 
+	netherite_ore_mod:deepslate_ancient_debris_ore (from Skay's Overworld Netherite RELEASE 1.20.1 Forge.jar), 
+	netherite_ore_mod:netherite_ancient_debris_ore (from Skay's Overworld Netherite RELEASE 1.20.1 Forge.jar)
+[08May2025 03:46:34.580] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Invalid path in pack: psg:recipes/Copper_sulfate_copia.json, ignoring
+[08May2025 03:46:34.580] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Invalid path in pack: psg:recipes/Copper_sulfate.json, ignoring
+[08May2025 03:46:34.690] [Worker-Main-11/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file psg:copper_sulfate_mixing from psg:recipes/copper_sulfate_mixing.json
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 14 column 8 path $.results[0].item
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_278771_(SimpleJsonResourceReloadListener.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:17) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at line 14 column 8 path $.results[0].item
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:500) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	... 13 more
+[08May2025 03:46:34.783] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/guster_red loot table
+[08May2025 03:46:34.785] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:34.785] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:34.798] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/leafcutter_ant_queen loot table
+[08May2025 03:46:34.798] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:34.801] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/warden loot table
+[08May2025 03:46:34.801] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:34.809] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/shoebill loot table
+[08May2025 03:46:34.809] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:34.810] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/zombie loot table
+[08May2025 03:46:34.811] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:34.811] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:34.818] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/guster loot table
+[08May2025 03:46:34.818] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:34.818] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:34.840] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/straddler loot table
+[08May2025 03:46:34.841] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:34.842] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:34.844] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/mule loot table
+[08May2025 03:46:34.845] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:34.849] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/skeleton_horse loot table
+[08May2025 03:46:34.850] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:34.868] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/shulker loot table
+[08May2025 03:46:34.869] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:34.877] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/cockroach loot table
+[08May2025 03:46:34.877] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:34.888] [Worker-Main-15/INFO] [K-Turrets/]: Checking mutantmonsters:entities/creeper_minion loot table
+[08May2025 03:46:34.888] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:34.891] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/ravager loot table
+[08May2025 03:46:34.891] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:34.910] [Worker-Main-15/INFO] [K-Turrets/]: Checking mutantmonsters:entities/mutant_snow_golem loot table
+[08May2025 03:46:34.911] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:34.913] [Worker-Main-15/INFO] [K-Turrets/]: Checking mutantmonsters:entities/mutant_skeleton/skull loot table
+[08May2025 03:46:34.915] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:34.920] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/donkey loot table
+[08May2025 03:46:34.921] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:34.928] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/laviathan_obsidian loot table
+[08May2025 03:46:34.928] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:34.928] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:34.953] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/moose loot table
+[08May2025 03:46:34.954] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.116] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/rabbit loot table
+[08May2025 03:46:35.116] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.116] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.117] [Worker-Main-15/INFO] [K-Turrets/]:    Including rabbit_foot with random looting chance 0.1
+[08May2025 03:46:35.120] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/crocodile loot table
+[08May2025 03:46:35.122] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.123] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.123] [Worker-Main-15/INFO] [K-Turrets/]: Checking the_deep_void:entities/mourner loot table
+[08May2025 03:46:35.123] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.127] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/cosmaw loot table
+[08May2025 03:46:35.127] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.132] [Worker-Main-15/INFO] [K-Turrets/]: Checking mutantmonsters:entities/mutant_skeleton/limb loot table
+[08May2025 03:46:35.133] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.138] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/elder_guardian loot table
+[08May2025 03:46:35.139] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.139] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.139] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.141] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/sheep/red loot table
+[08May2025 03:46:35.141] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.142] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.144] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/centipede_head loot table
+[08May2025 03:46:35.144] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.148] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/sheep/white loot table
+[08May2025 03:46:35.149] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.149] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.157] [Worker-Main-15/INFO] [K-Turrets/]: Checking railways:entities/conductor loot table
+[08May2025 03:46:35.157] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.169] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/drowned loot table
+[08May2025 03:46:35.169] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.170] [Worker-Main-15/INFO] [K-Turrets/]:    Including copper_ingot with random looting chance 0.11
+[08May2025 03:46:35.171] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/murmur loot table
+[08May2025 03:46:35.172] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.172] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.174] [Worker-Main-15/INFO] [K-Turrets/]: Checking the_deep_void:entities/nightmare loot table
+[08May2025 03:46:35.174] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.182] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/skelewag loot table
+[08May2025 03:46:35.183] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.183] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.183] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.184] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.187] [Worker-Main-15/INFO] [K-Turrets/]: Checking mutantmonsters:entities/mutant_skeleton/pelvis loot table
+[08May2025 03:46:35.187] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.196] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/rattlesnake loot table
+[08May2025 03:46:35.197] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.198] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/phantom loot table
+[08May2025 03:46:35.198] [Worker-Main-15/INFO] [K-Turrets/]:    Including phantom_membrane with uniform set item function 0.0 - 1.0
+[08May2025 03:46:35.212] [Worker-Main-15/INFO] [K-Turrets/]: Checking mutantmonsters:entities/mutant_skeleton/shoulder_pad loot table
+[08May2025 03:46:35.212] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.213] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/toucan loot table
+[08May2025 03:46:35.213] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.221] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/void_worm loot table
+[08May2025 03:46:35.221] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.221] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.223] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/tarantula_hawk loot table
+[08May2025 03:46:35.223] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.235] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/bunfungus loot table
+[08May2025 03:46:35.238] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.242] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/blaze loot table
+[08May2025 03:46:35.242] [Worker-Main-15/INFO] [K-Turrets/]:    Including blaze_rod with uniform set item function 0.0 - 1.0
+[08May2025 03:46:35.248] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/squid loot table
+[08May2025 03:46:35.248] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.249] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/sheep/green loot table
+[08May2025 03:46:35.250] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.250] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.251] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/guster_soul loot table
+[08May2025 03:46:35.251] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.252] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.256] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/husk loot table
+[08May2025 03:46:35.256] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.257] [Worker-Main-15/INFO] [K-Turrets/]:    Including iron_ingot with random looting chance 0.008333334
+[08May2025 03:46:35.257] [Worker-Main-15/INFO] [K-Turrets/]:    Including carrot with random looting chance 0.008333334
+[08May2025 03:46:35.257] [Worker-Main-15/INFO] [K-Turrets/]:    Including potato with random looting chance 0.008333334
+[08May2025 03:46:35.261] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/ghast loot table
+[08May2025 03:46:35.261] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.261] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.269] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/soul_vulture loot table
+[08May2025 03:46:35.269] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.270] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.274] [Worker-Main-15/INFO] [K-Turrets/]: Checking the_deep_void:entities/licker loot table
+[08May2025 03:46:35.274] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.276] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/sheep/black loot table
+[08May2025 03:46:35.276] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.276] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.284] [Worker-Main-15/INFO] [K-Turrets/]: Checking the_deep_void:entities/void_dweller loot table
+[08May2025 03:46:35.285] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.287] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/chicken loot table
+[08May2025 03:46:35.288] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.288] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.290] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/gazelle loot table
+[08May2025 03:46:35.290] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.290] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.291] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/snow_golem loot table
+[08May2025 03:46:35.291] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.298] [Worker-Main-15/INFO] [K-Turrets/]: Checking the_deep_void:entities/gravekeeper loot table
+[08May2025 03:46:35.298] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.302] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/potoo loot table
+[08May2025 03:46:35.302] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.310] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/pig loot table
+[08May2025 03:46:35.311] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.317] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/sheep/yellow loot table
+[08May2025 03:46:35.317] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.318] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.345] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/guardian loot table
+[08May2025 03:46:35.345] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.346] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.351] [Worker-Main-15/INFO] [K-Turrets/]: Checking ecologics:entities/coconut_crab loot table
+[08May2025 03:46:35.351] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.353] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/zoglin loot table
+[08May2025 03:46:35.353] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.357] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/catfish_medium loot table
+[08May2025 03:46:35.357] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.360] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/cockroach_maracas loot table
+[08May2025 03:46:35.360] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.360] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.360] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.361] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/farseer loot table
+[08May2025 03:46:35.361] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.361] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/tusklin loot table
+[08May2025 03:46:35.361] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.361] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.374] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/bison loot table
+[08May2025 03:46:35.375] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.375] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.378] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/rocky_roller loot table
+[08May2025 03:46:35.379] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.379] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.379] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.386] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/mimic_octopus loot table
+[08May2025 03:46:35.386] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.393] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/raccoon loot table
+[08May2025 03:46:35.393] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.395] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/trader_llama loot table
+[08May2025 03:46:35.396] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.400] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/soul_vulture_heart loot table
+[08May2025 03:46:35.401] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.401] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.401] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.408] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/warped_mosco loot table
+[08May2025 03:46:35.408] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.408] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.410] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/cosmic_cod loot table
+[08May2025 03:46:35.410] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.410] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.413] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/catfish loot table
+[08May2025 03:46:35.413] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.416] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/cockroach_maracas_headless loot table
+[08May2025 03:46:35.416] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.416] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.418] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/parrot loot table
+[08May2025 03:46:35.418] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.420] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/flying_fish loot table
+[08May2025 03:46:35.421] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.421] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.435] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/glow_squid loot table
+[08May2025 03:46:35.436] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.446] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/sheep/pink loot table
+[08May2025 03:46:35.446] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.446] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.448] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/mudskipper loot table
+[08May2025 03:46:35.448] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.454] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/enderiophage loot table
+[08May2025 03:46:35.454] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.475] [Worker-Main-15/INFO] [K-Turrets/]: Checking the_deep_void:entities/spore_spewer loot table
+[08May2025 03:46:35.479] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.480] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.480] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.486] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/roadrunner loot table
+[08May2025 03:46:35.487] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.487] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.490] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/slime loot table
+[08May2025 03:46:35.490] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.493] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/lobster loot table
+[08May2025 03:46:35.493] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.497] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/giant_squid loot table
+[08May2025 03:46:35.497] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.502] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/blobfish loot table
+[08May2025 03:46:35.502] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.502] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.506] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/seagull loot table
+[08May2025 03:46:35.506] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.506] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/froststalker loot table
+[08May2025 03:46:35.506] [Worker-Main-15/INFO] [K-Turrets/]:    Including froststalker_horn with random looting chance 0.23
+[08May2025 03:46:35.514] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/hoglin loot table
+[08May2025 03:46:35.514] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.514] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.515] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/grizzly_bear loot table
+[08May2025 03:46:35.515] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.515] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.519] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/sheep/lime loot table
+[08May2025 03:46:35.519] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.520] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.523] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/skeleton loot table
+[08May2025 03:46:35.523] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.523] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.524] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/enderman loot table
+[08May2025 03:46:35.524] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.529] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/sheep/blue loot table
+[08May2025 03:46:35.530] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.530] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.534] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/llama loot table
+[08May2025 03:46:35.534] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.538] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/horse loot table
+[08May2025 03:46:35.538] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.543] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/mooshroom loot table
+[08May2025 03:46:35.543] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.543] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.549] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/kangaroo loot table
+[08May2025 03:46:35.549] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.549] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.561] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/salmon loot table
+[08May2025 03:46:35.562] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.562] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.563] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/sheep loot table
+[08May2025 03:46:35.563] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.568] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/wither_skeleton loot table
+[08May2025 03:46:35.569] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.569] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.569] [Worker-Main-15/INFO] [K-Turrets/]:    Including wither_skeleton_skull with random looting chance 0.025
+[08May2025 03:46:35.573] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/sheep/light_gray loot table
+[08May2025 03:46:35.573] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.573] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.573] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/fly loot table
+[08May2025 03:46:35.574] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.575] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/pufferfish loot table
+[08May2025 03:46:35.575] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.575] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.579] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/creeper loot table
+[08May2025 03:46:35.579] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.579] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.590] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/stray loot table
+[08May2025 03:46:35.591] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.591] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.591] [Worker-Main-15/INFO] [K-Turrets/]:    Including tipped_arrow with uniform set item function 0.0 - 1.0
+[08May2025 03:46:35.595] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/spider loot table
+[08May2025 03:46:35.595] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.595] [Worker-Main-15/INFO] [K-Turrets/]:    Including spider_eye with uniform set item function -1.0 - 1.0
+[08May2025 03:46:35.597] [Worker-Main-15/INFO] [K-Turrets/]: Checking the_deep_void:entities/lurker loot table
+[08May2025 03:46:35.597] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.597] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/zombie_horse loot table
+[08May2025 03:46:35.597] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.600] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/blue_jay loot table
+[08May2025 03:46:35.600] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.601] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/crow loot table
+[08May2025 03:46:35.601] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.603] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/turtle loot table
+[08May2025 03:46:35.603] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.604] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.604] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/vindicator loot table
+[08May2025 03:46:35.604] [Worker-Main-15/INFO] [K-Turrets/]:    Including emerald with uniform set item function 0.0 - 1.0
+[08May2025 03:46:35.605] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/evoker loot table
+[08May2025 03:46:35.606] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.606] [Worker-Main-15/INFO] [K-Turrets/]:    Including emerald with uniform set item function 0.0 - 1.0
+[08May2025 03:46:35.608] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/zombie_villager loot table
+[08May2025 03:46:35.608] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.608] [Worker-Main-15/INFO] [K-Turrets/]:    Including iron_ingot with random looting chance 0.008333334
+[08May2025 03:46:35.608] [Worker-Main-15/INFO] [K-Turrets/]:    Including carrot with random looting chance 0.008333334
+[08May2025 03:46:35.608] [Worker-Main-15/INFO] [K-Turrets/]:    Including potato with random looting chance 0.008333334
+[08May2025 03:46:35.610] [Worker-Main-15/INFO] [K-Turrets/]: Checking mutantmonsters:entities/mutant_zombie loot table
+[08May2025 03:46:35.616] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/sheep/light_blue loot table
+[08May2025 03:46:35.616] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.617] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.627] [Worker-Main-15/INFO] [K-Turrets/]: Checking the_deep_void:entities/wanderer loot table
+[08May2025 03:46:35.627] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.639] [Worker-Main-15/INFO] [K-Turrets/]: Checking the_deep_void:entities/small_flesh_cube loot table
+[08May2025 03:46:35.639] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.639] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.639] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.647] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/bone_serpent loot table
+[08May2025 03:46:35.647] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.647] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.647] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.652] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/polar_bear loot table
+[08May2025 03:46:35.652] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.653] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/sheep/gray loot table
+[08May2025 03:46:35.653] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.653] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.655] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/iron_golem loot table
+[08May2025 03:46:35.655] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.655] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.660] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/cat loot table
+[08May2025 03:46:35.660] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.668] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/sheep/magenta loot table
+[08May2025 03:46:35.668] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.668] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.671] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/mimicube loot table
+[08May2025 03:46:35.671] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.678] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/magma_cube loot table
+[08May2025 03:46:35.678] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.685] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/witch loot table
+[08May2025 03:46:35.685] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.687] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/crimson_mosquito_full loot table
+[08May2025 03:46:35.687] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.688] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.690] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/zombified_piglin loot table
+[08May2025 03:46:35.690] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.690] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.691] [Worker-Main-15/INFO] [K-Turrets/]:    Including gold_ingot with random looting chance 0.025
+[08May2025 03:46:35.697] [Worker-Main-15/INFO] [K-Turrets/]: Checking the_deep_void:entities/devourer loot table
+[08May2025 03:46:35.697] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.703] [Worker-Main-15/INFO] [K-Turrets/]: Checking mutantmonsters:entities/mutant_skeleton/rib loot table
+[08May2025 03:46:35.703] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.704] [Worker-Main-15/INFO] [K-Turrets/]: Checking ecologics:entities/camel loot table
+[08May2025 03:46:35.704] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.705] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/sheep/brown loot table
+[08May2025 03:46:35.705] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.705] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.712] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/froststalker_spikes loot table
+[08May2025 03:46:35.712] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.712] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.712] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.713] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/cod loot table
+[08May2025 03:46:35.713] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.713] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.715] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/cow loot table
+[08May2025 03:46:35.716] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.716] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.718] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/crimson_mosquito_fly loot table
+[08May2025 03:46:35.718] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.718] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.719] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/bald_eagle loot table
+[08May2025 03:46:35.719] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.720] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/dropbear loot table
+[08May2025 03:46:35.720] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.730] [Worker-Main-15/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:aiycrates:blocks/blue_filum_table
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'getit:blue_filum'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.0-universal.jar%23448!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.0-universal.jar%23448!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[08May2025 03:46:35.743] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/cave_spider loot table
+[08May2025 03:46:35.743] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.743] [Worker-Main-15/INFO] [K-Turrets/]:    Including spider_eye with uniform set item function -1.0 - 1.0
+[08May2025 03:46:35.745] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/strider loot table
+[08May2025 03:46:35.745] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.756] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/sheep/cyan loot table
+[08May2025 03:46:35.756] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.756] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.756] [Worker-Main-15/INFO] [K-Turrets/]: Checking mutantmonsters:entities/spider_pig loot table
+[08May2025 03:46:35.756] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.756] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.757] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/warped_toad loot table
+[08May2025 03:46:35.757] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.757] [Worker-Main-15/INFO] [K-Turrets/]: Checking mutantmonsters:entities/mutant_enderman_continuous loot table
+[08May2025 03:46:35.757] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.759] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/comb_jelly loot table
+[08May2025 03:46:35.759] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.764] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/dolphin loot table
+[08May2025 03:46:35.764] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.765] [Worker-Main-15/INFO] [K-Turrets/]: Checking mutantmonsters:entities/mutant_creeper loot table
+[08May2025 03:46:35.766] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.771] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/sheep/orange loot table
+[08May2025 03:46:35.771] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.771] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.780] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/crimson_mosquito loot table
+[08May2025 03:46:35.781] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.784] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/sheep/purple loot table
+[08May2025 03:46:35.784] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.784] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.785] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/catfish_large loot table
+[08May2025 03:46:35.785] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.787] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/banana_slug loot table
+[08May2025 03:46:35.787] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.797] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/flutter loot table
+[08May2025 03:46:35.797] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.797] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/tropical_fish loot table
+[08May2025 03:46:35.797] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.798] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.799] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/laviathan loot table
+[08May2025 03:46:35.799] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.799] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.799] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/crimson_mosquito_fly_full loot table
+[08May2025 03:46:35.799] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.800] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.807] [Worker-Main-15/INFO] [K-Turrets/]: Checking minecraft:entities/panda loot table
+[08May2025 03:46:35.807] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.811] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/emu loot table
+[08May2025 03:46:35.811] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.811] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.813] [Worker-Main-15/INFO] [K-Turrets/]: Checking warrior:entities/warrior loot table
+[08May2025 03:46:35.813] [Worker-Main-15/INFO] [K-Turrets/]:    Skipping regular loot pool
+[08May2025 03:46:35.813] [Worker-Main-15/INFO] [K-Turrets/]:    Including iron_ingot with random looting chance 0.008333334
+[08May2025 03:46:35.813] [Worker-Main-15/INFO] [K-Turrets/]:    Including carrot with random looting chance 0.008333334
+[08May2025 03:46:35.813] [Worker-Main-15/INFO] [K-Turrets/]:    Including potato with random looting chance 0.008333334
+[08May2025 03:46:35.814] [Worker-Main-15/INFO] [K-Turrets/]: Checking alexsmobs:entities/skreecher loot table
+[08May2025 03:46:35.970] [main/INFO] [KubeJS Server/]: Processing recipes...
+[08May2025 03:46:35.988] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:lavendite_devourer_hook_recipe[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:35.996] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'psg:modprova[minecraft:crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[08May2025 03:46:35.997] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:bismuth_netherite_sword_recipe[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.011] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:lavendite_onyx_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.021] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'psg:quarkrecipe_2[minecraft:crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[08May2025 03:46:36.024] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:lavendite_netherite_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.067] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:bismuth_netherite_helmet[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.076] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:lavendite_golden_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.077] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:bismuth_netherite_pickaxe_recipe[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.078] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:rotten_netherite_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.080] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:bismuth_netherite_leggings[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.081] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:lavendite_wooden_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.082] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:bismuth_netherite_shovel_recipe[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.096] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:lavendite_shield[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.102] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:rotten_wooden_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.107] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:bismuth_netherite_boots[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.115] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:bismuth_netherite_axe_recipe[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.120] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:rotten_iron_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.124] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:lavendite_stone_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.133] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:lavendite_diamond_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.149] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:bismuth_netherite_hoe_recipe[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.153] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:lavendite_bone_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.154] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:rotten_diamond_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.157] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:rotten_golden_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.159] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:bismuth_netherite_chestplate[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.168] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:rotten_tongue_hook[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.170] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:rotten_stone_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.172] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:lavendite_iron_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.181] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'the_deep_void:void_vision_spyglass[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[08May2025 03:46:36.189] [main/INFO] [KubeJS Server/]: Found 9366 recipes in 217.3 ms
+[08May2025 03:46:36.191] [main/INFO] [KubeJS Server/]: itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_clean_block
+[08May2025 03:46:36.191] [main/INFO] [KubeJS Server/]: itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_clean_block_blasting
+[08May2025 03:46:36.191] [main/INFO] [KubeJS Server/]: itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_exposed_block
+[08May2025 03:46:36.191] [main/INFO] [KubeJS Server/]: itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_exposed_block_blasting
+[08May2025 03:46:36.191] [main/INFO] [KubeJS Server/]: itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_rusted_block
+[08May2025 03:46:36.191] [main/INFO] [KubeJS Server/]: itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_rusted_block_blasting
+[08May2025 03:46:36.191] [main/INFO] [KubeJS Server/]: itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_weathered_block
+[08May2025 03:46:36.191] [main/INFO] [KubeJS Server/]: itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_weathered_block_blasting
+[08May2025 03:46:36.192] [main/INFO] [KubeJS Server/]: itemRecipeBlacklist.js#60: the_deep_void:refined_bismuth
+[08May2025 03:46:36.537] [main/INFO] [KubeJS Server/]: cursedwalkingrecipechanges.js#2: CW Recipe Tweaks has fired.
+[08May2025 03:46:36.547] [main/INFO] [KubeJS Server/]: Posted recipe events in 357.0 ms
+[08May2025 03:46:36.644] [main/INFO] [KubeJS Server/]: Added 8 recipes, removed 31 recipes, modified 3 recipes, with 0 failed recipes in 93.97 ms
+[08May2025 03:46:36.647] [main/INFO] [com.possible_triangle.sliceanddice.SliceAndDice/]: Injecting recipes
+[08May2025 03:46:36.951] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement money:moneymakesmefunny: Task Advancement{parentId=money:moneymakesmefunny, display=net.minecraft.advancements.DisplayInfo@6601c119, rewards=AdvancementRewards{experience=69, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@79c00c8a}, criteria={moneymakesmefunny=net.minecraft.advancements.Criterion@79dbf76d}, requirements=[[moneymakesmefunny]], sends_telemetry_event=false}
+[08May2025 03:46:36.951] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 7625 advancements
+[08May2025 03:46:36.958] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[08May2025 03:46:36.972] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[08May2025 03:46:36.983] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[08May2025 03:46:37.019] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 35, min day 0 and max day 20
+[08May2025 03:46:37.019] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_villager as entity.minecraft.zombie_villager with weight 1, min day 0 and max day 20
+[08May2025 03:46:37.019] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 20 and max day 40
+[08May2025 03:46:37.019] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 40, min day 20 and max day 40
+[08May2025 03:46:37.019] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 3, min day 30 and max day 40
+[08May2025 03:46:37.020] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 40 and max day 40
+[08May2025 03:46:37.020] [main/INFO] [hordes/]: Loaded entity minecraft:zombified_piglin as entity.minecraft.zombified_piglin with weight 10, min day 40 and max day 0
+[08May2025 03:46:37.020] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 25, min day 50 and max day 0
+[08May2025 03:46:37.020] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 50 and max day 0
+[08May2025 03:46:37.020] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 50 and max day 0
+[08May2025 03:46:37.021] [main/INFO] [hordes/]: loaded horde table hordes:default
+[08May2025 03:46:37.021] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 40, min day 0 and max day 20
+[08May2025 03:46:37.021] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 3, min day 30 and max day 40
+[08May2025 03:46:37.021] [main/INFO] [hordes/]: loaded horde table hordes:drowned
+[08May2025 03:46:37.021] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 20, min day 0 and max day 20
+[08May2025 03:46:37.021] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 10, min day 20 and max day 30
+[08May2025 03:46:37.022] [main/INFO] [hordes/]: Loaded entity minecraft:spider as entity.minecraft.spider with weight 15, min day 20 and max day 30
+[08May2025 03:46:37.022] [main/INFO] [hordes/]: Loaded entity minecraft:creeper as entity.minecraft.creeper with weight 5, min day 30 and max day 30
+[08May2025 03:46:37.022] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 20, min day 30 and max day 50
+[08May2025 03:46:37.022] [main/INFO] [hordes/]: Loaded entity minecraft:stray as entity.minecraft.stray with weight 10, min day 40 and max day 50
+[08May2025 03:46:37.022] [main/INFO] [hordes/]: Loaded entity minecraft:cave_spider as entity.minecraft.cave_spider with weight 10, min day 40 and max day 50
+[08May2025 03:46:37.022] [main/INFO] [hordes/]: Loaded entity minecraft:witch as entity.minecraft.witch with weight 5, min day 40 and max day 50
+[08May2025 03:46:37.022] [main/INFO] [hordes/]: Loaded entity minecraft:pillager as entity.minecraft.pillager with weight 10, min day 40 and max day 50
+[08May2025 03:46:37.023] [main/INFO] [hordes/]: Loaded entity minecraft:zombified_piglin as entity.minecraft.zombified_piglin with weight 10, min day 40 and max day 50
+[08May2025 03:46:37.023] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 40 and max day 50
+[08May2025 03:46:37.023] [main/INFO] [hordes/]: Loaded entity minecraft:wither_skeleton as entity.minecraft.wither_skeleton with weight 10, min day 50 and max day 0
+[08May2025 03:46:37.023] [main/INFO] [hordes/]: Loaded entity minecraft:phantom as entity.minecraft.phantom with weight 5, min day 50 and max day 50
+[08May2025 03:46:37.023] [main/INFO] [hordes/]: Loaded entity minecraft:vindicator as entity.minecraft.vindicator with weight 10, min day 50 and max day 50
+[08May2025 03:46:37.023] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 5, min day 40 and max day 40
+[08May2025 03:46:37.024] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 50 and max day 50
+[08May2025 03:46:37.024] [main/INFO] [hordes/]: Loaded entity minecraft:evoker as entity.minecraft.evoker with weight 5, min day 50 and max day 50
+[08May2025 03:46:37.024] [main/INFO] [hordes/]: Loaded entity minecraft:piglin_brute as entity.minecraft.piglin_brute with weight 10, min day 60 and max day 0
+[08May2025 03:46:37.024] [main/INFO] [hordes/]: Loaded entity minecraft:cave_spider as entity.minecraft.cave_spider with weight 15, min day 60 and max day 0
+[08May2025 03:46:37.024] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 5, min day 60 and max day 0
+[08May2025 03:46:37.024] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 3, min day 60 and max day 0
+[08May2025 03:46:37.025] [main/INFO] [hordes/]: Loaded entity minecraft:phantom as entity.minecraft.phantom with weight 3, min day 60 and max day 0
+[08May2025 03:46:37.025] [main/INFO] [hordes/]: loaded horde table hordes:mixed_mobs
+[08May2025 03:46:37.025] [main/INFO] [hordes/]: Loaded entity minecraft:pillager as entity.minecraft.pillager with weight 15, min day 0 and max day 0
+[08May2025 03:46:37.025] [main/INFO] [hordes/]: Loaded entity minecraft:vindicator as entity.minecraft.vindicator with weight 10, min day 0 and max day 0
+[08May2025 03:46:37.025] [main/INFO] [hordes/]: Loaded entity minecraft:witch as entity.minecraft.witch with weight 5, min day 20 and max day 0
+[08May2025 03:46:37.025] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 30 and max day 40
+[08May2025 03:46:37.025] [main/INFO] [hordes/]: Loaded entity minecraft:evoker as entity.minecraft.evoker with weight 3, min day 40 and max day 40
+[08May2025 03:46:37.026] [main/INFO] [hordes/]: Loaded entity minecraft:illusioner as entity.minecraft.illusioner with weight 5, min day 50 and max day 0
+[08May2025 03:46:37.026] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 3, min day 50 and max day 0
+[08May2025 03:46:37.026] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 50 and max day 0
+[08May2025 03:46:37.026] [main/INFO] [hordes/]: loaded horde table hordes:illagers
+[08May2025 03:46:37.026] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 10, min day 0 and max day 20
+[08May2025 03:46:37.026] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 20, min day 0 and max day 30
+[08May2025 03:46:37.027] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton_horse as entity.minecraft.skeleton_horse with weight 5, min day 20 and max day 50
+[08May2025 03:46:37.027] [main/INFO] [hordes/]: Loaded entity minecraft:stray as entity.minecraft.stray with weight 10, min day 20 and max day 0
+[08May2025 03:46:37.027] [main/INFO] [hordes/]: Loaded entity minecraft:wither_skeleton as entity.minecraft.wither_skeleton with weight 10, min day 40 and max day 0
+[08May2025 03:46:37.027] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton_horse as entity.minecraft.skeleton_horse with weight 5, min day 40 and max day 0
+[08May2025 03:46:37.027] [main/INFO] [hordes/]: loaded horde table hordes:skeletons
+[08May2025 03:46:37.028] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 30, min day 0 and max day 0
+[08May2025 03:46:37.028] [main/INFO] [hordes/]: loaded horde table hordes:fallback
+[08May2025 03:46:37.033] [main/INFO] [hordes/]: loaded horde script hordes:default
+[08May2025 03:46:37.033] [main/INFO] [hordes/]: Loading conversion tables
+[08May2025 03:46:37.033] [main/INFO] [hordes/]: Loading conversion table hordes:infection_conversions
+[08May2025 03:46:37.035] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.horse to entity.minecraft.zombie_horse with chance of 0.65
+[08May2025 03:46:37.035] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.piglin to entity.minecraft.zombified_piglin with chance of 0.75
+[08May2025 03:46:37.037] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.piglin_brute to entity.minecraft.zombified_piglin{Attributes:[{Base:50.0f,Name:"generic.max_health"}],chat_name:"entity.hordes.ZombifiedPiglinBrute.name",texture:"hordes:textures/entity/zombified_piglin_brute.png"} with chance of 0.35
+[08May2025 03:46:37.037] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.hoglin to entity.minecraft.zoglin with chance of 0.15
+[08May2025 03:46:37.037] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.wandering_trader to entity.minecraft.zombie_villager{VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieWanderingTrader.name",texture:"hordes:textures/entity/zombie_wandering_trader.png"} with chance of 0.75
+[08May2025 03:46:37.037] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.pillager to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombiePillager.name",texture:"hordes:textures/entity/zombie_pillager.png"} with chance of 0.75
+[08May2025 03:46:37.038] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.vindicator to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieVindicator.name",texture:"hordes:textures/entity/zombie_vindicator.png"} with chance of 0.35
+[08May2025 03:46:37.038] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.evoker to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieEvoker.name",texture:"hordes:textures/entity/zombie_evoker.png"} with chance of 0.5
+[08May2025 03:46:37.038] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.illusioner to entity.minecraft.zombie_villager{Attributes:[{Base:32.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieIllusioner.name",texture:"hordes:textures/entity/zombie_illusioner.png"} with chance of 0.15
+[08May2025 03:46:37.038] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.witch to entity.minecraft.zombie_villager{Attributes:[{Base:26.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieWitch.name",texture:"hordes:textures/entity/zombie_witch.png"} with chance of 0.25
+[08May2025 03:46:37.039] [main/INFO] [hordes/]: Loading immunity item list
+[08May2025 03:46:37.039] [main/INFO] [hordes/]: Loading immunity item list hordes:immunity_items
+[08May2025 03:46:37.039] [main/INFO] [hordes/]: Loaded immunity item cure:vaccine with duration 350
+[08May2025 03:46:37.039] [main/INFO] [hordes/]: Loading wearables protection list
+[08May2025 03:46:37.040] [main/INFO] [hordes/]: Loading wearables protection list hordes:immune_wearables
+[08May2025 03:46:37.041] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[08May2025 03:46:37.044] [main/INFO] [insane96mcp.insanelib.InsaneLib/]: Reloading InsaneLib JsonFeature Json
+[08May2025 03:46:37.555] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forsaken:has_structures/wells/pit/cobble
+[08May2025 03:46:44.140] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 78 block growths configurations
+[08May2025 03:46:44.145] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 14 liquid generators configurations
+[08May2025 03:46:44.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[08May2025 03:46:44.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[08May2025 03:46:44.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[08May2025 03:46:44.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[08May2025 03:46:44.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[08May2025 03:46:44.603] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[08May2025 03:46:44.678] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08May2025 03:46:44.679] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[08May2025 03:46:44.679] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08May2025 03:46:44.679] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[08May2025 03:46:44.697] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: Loading "Dimension Access Manager" SERVER Config
+[08May2025 03:46:44.697] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: default_dimension_access_type = GRANTED
+[08May2025 03:46:44.697] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimension_command_permission_level = 3
+[08May2025 03:46:44.698] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: "Dimension Access Manager" SERVER Config loaded
+[08May2025 03:46:44.699] [Thread-5/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: Loading "Dimension Access Manager" SERVER Config
+[08May2025 03:46:44.699] [Thread-5/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: default_dimension_access_type = GRANTED
+[08May2025 03:46:44.699] [Thread-5/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimension_command_permission_level = 3
+[08May2025 03:46:44.699] [Thread-5/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: "Dimension Access Manager" SERVER Config loaded
+[08May2025 03:46:44.708] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
+[08May2025 03:46:44.708] [Thread-5/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
+[08May2025 03:46:44.709] [Thread-5/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
+[08May2025 03:46:44.882] [Server thread/INFO] [FTB Teams/]: loaded team data: 9 known players, 10 teams total
+[08May2025 03:46:44.979] [Server thread/INFO] [Framework/]: Loading server configs...
+[08May2025 03:46:45.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[08May2025 03:46:45.109] [Server thread/WARN] [mixin/]: @Redirect conflict. Skipping securitycraft.mixins.json:camera.ChunkMapMixin->@Redirect::securitycraft$getCameraSectionPos(Lnet/minecraft/server/level/ServerPlayer;)Lnet/minecraft/core/SectionPos; with priority 1100, already redirected by railways-common.mixins.json:conductor_possession.ChunkMapMixin->@Redirect::securitycraft$getCameraSectionPos(Lnet/minecraft/server/level/ServerPlayer;)Lnet/minecraft/core/SectionPos; with priority 1200
+[08May2025 03:46:45.918] [Server thread/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Possible lunar events for dimension "minecraft:overworld" are [enhancedcelestials:harvest_moon, enhancedcelestials:super_blood_moon, enhancedcelestials:super_blue_moon, enhancedcelestials:blue_moon, enhancedcelestials:blood_moon, enhancedcelestials:super_moon, enhancedcelestials:super_harvest_moon].
+[08May2025 03:46:46.724] [Server thread/INFO] [incontrol/]: Reading rules from areas.json
+[08May2025 03:46:46.770] [Server thread/INFO] [incontrol/]: Reading rules from spawn.json
+[08May2025 03:46:47.067] [Server thread/INFO] [incontrol/]: Reading rules from summonaid.json
+[08May2025 03:46:47.077] [Server thread/INFO] [incontrol/]: Reading rules from loot.json
+[08May2025 03:46:47.099] [Server thread/INFO] [incontrol/]: Reading rules from experience.json
+[08May2025 03:46:47.106] [Server thread/INFO] [incontrol/]: Reading rules from phases.json
+[08May2025 03:46:47.110] [Server thread/INFO] [incontrol/]: Reading rules from effects.json
+[08May2025 03:46:47.120] [Server thread/INFO] [incontrol/]: Reading rules from breakevents.json
+[08May2025 03:46:47.128] [Server thread/INFO] [incontrol/]: Reading rules from placeevents.json
+[08May2025 03:46:47.138] [Server thread/INFO] [incontrol/]: Reading rules from rightclicks.json
+[08May2025 03:46:47.146] [Server thread/INFO] [incontrol/]: Reading rules from leftclicks.json
+[08May2025 03:46:47.155] [Server thread/INFO] [incontrol/]: Reading rules from spawner.json
+[08May2025 03:46:47.213] [Server thread/INFO] [incontrol/]: Reading rules from events.json
+[08May2025 03:46:48.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[08May2025 03:46:48.419] [Server thread/INFO] [KubeJS Server/]: Server resource reload complete!
+[08May2025 03:46:57.251] [Worker-Main-11/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08May2025 03:46:57.292] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08May2025 03:46:57.992] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08May2025 03:46:57.993] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08May2025 03:46:57.993] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08May2025 03:46:57.994] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08May2025 03:46:57.994] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08May2025 03:46:57.995] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08May2025 03:46:57.995] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08May2025 03:46:57.995] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08May2025 03:46:57.997] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08May2025 03:46:57.998] [Worker-Main-7/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08May2025 03:46:57.998] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08May2025 03:46:57.999] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08May2025 03:46:58.001] [Worker-Main-14/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08May2025 03:46:58.002] [Worker-Main-7/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08May2025 03:46:58.002] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08May2025 03:46:58.003] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08May2025 03:46:58.003] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08May2025 03:46:58.003] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08May2025 03:46:58.407] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[08May2025 03:46:58.907] [Worker-Main-10/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[08May2025 03:46:59.406] [Worker-Main-10/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 97%
+[08May2025 03:46:59.458] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11052 ms
+[08May2025 03:46:59.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.765s)! For help, type "help"
+[08May2025 03:46:59.540] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[08May2025 03:46:59.542] [Server thread/INFO] [com.technicboyman.nobz.nobabyzombies1_20_1forge.Nobabyzombies1_20_1forge/]: HELLO from server starting
+[08May2025 03:46:59.552] [Server thread/INFO] [K-Turrets/]: Cobble unit ammo:
+[08May2025 03:46:59.553] [Server thread/INFO] [K-Turrets/]: minecraft:cobblestone
+[08May2025 03:46:59.553] [Server thread/INFO] [K-Turrets/]: minecraft:blackstone
+[08May2025 03:46:59.553] [Server thread/INFO] [K-Turrets/]: minecraft:cobbled_deepslate
+[08May2025 03:46:59.553] [Server thread/INFO] [K-Turrets/]: bloomingnature:cobbled_travertin
+[08May2025 03:46:59.553] [Server thread/INFO] [K-Turrets/]: bloomingnature:cobbled_laterit
+[08May2025 03:46:59.553] [Server thread/INFO] [K-Turrets/]: bloomingnature:cobbled_slate
+[08May2025 03:46:59.554] [Server thread/INFO] [K-Turrets/]: minecraft:diorite
+[08May2025 03:46:59.554] [Server thread/INFO] [K-Turrets/]: minecraft:granite
+[08May2025 03:46:59.554] [Server thread/INFO] [K-Turrets/]: minecraft:andesite
+[08May2025 03:46:59.554] [Server thread/INFO] [K-Turrets/]: 
+[08May2025 03:46:59.554] [Server thread/INFO] [K-Turrets/]: Bullet unit ammo:
+[08May2025 03:46:59.555] [Server thread/INFO] [K-Turrets/]: k_turrets:bullet
+[08May2025 03:46:59.555] [Server thread/INFO] [K-Turrets/]: 
+[08May2025 03:46:59.555] [Server thread/INFO] [K-Turrets/]: Brick unit ammo:
+[08May2025 03:46:59.555] [Server thread/INFO] [K-Turrets/]: immersive_weathering:deepslate_brick
+[08May2025 03:46:59.556] [Server thread/INFO] [K-Turrets/]: immersive_weathering:stone_brick
+[08May2025 03:46:59.556] [Server thread/INFO] [K-Turrets/]: immersive_weathering:end_stone_brick
+[08May2025 03:46:59.556] [Server thread/INFO] [K-Turrets/]: immersive_weathering:blackstone_brick
+[08May2025 03:46:59.556] [Server thread/INFO] [K-Turrets/]: minecraft:brick
+[08May2025 03:46:59.556] [Server thread/INFO] [K-Turrets/]: minecraft:nether_brick
+[08May2025 03:46:59.556] [Server thread/INFO] [K-Turrets/]: 
+[08May2025 03:46:59.556] [Server thread/INFO] [K-Turrets/]: Gauss unit ammo:
+[08May2025 03:46:59.557] [Server thread/INFO] [K-Turrets/]: k_turrets:gauss_bullet
+[08May2025 03:46:59.557] [Server thread/INFO] [K-Turrets/]: 
+[08May2025 03:46:59.557] [Server thread/INFO] [K-Turrets/]: Fireball unit ammo:
+[08May2025 03:46:59.557] [Server thread/INFO] [K-Turrets/]: k_turrets:explosive_powder
+[08May2025 03:46:59.557] [Server thread/INFO] [K-Turrets/]: minecraft:fire_charge
+[08May2025 03:46:59.557] [Server thread/INFO] [K-Turrets/]: 
+[08May2025 03:46:59.558] [Server thread/INFO] [K-Turrets/]: Arrow unit ammo:
+[08May2025 03:46:59.558] [Server thread/INFO] [K-Turrets/]: minecraft:arrow
+[08May2025 03:46:59.558] [Server thread/INFO] [K-Turrets/]: minecraft:spectral_arrow
+[08May2025 03:46:59.558] [Server thread/INFO] [K-Turrets/]: minecraft:tipped_arrow
+[08May2025 03:46:59.570] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterfpsdist.json
+[08May2025 03:46:59.572] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: forgivingworld.json
+[08May2025 03:46:59.574] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[08May2025 03:46:59.664] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[08May2025 03:46:59.766] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[08May2025 03:51:48.176] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[08May2025 03:51:48.354] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sigan_viendo01[/127.117.105.103:44365] logged in with entity id 79 at (-146.61836255905166, 58.0, 88.0312305171665)
+[08May2025 03:51:48.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 joined the game
+[08May2025 03:51:48.627] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to sigan_viendo01
+[08May2025 03:51:50.819] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from sigan_viendo01
+[08May2025 03:51:50.971] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of sigan_viendo01 (18)
+[08May2025 03:51:50.974] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sigan_viendo01
+[08May2025 03:52:02.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2445ms or 48 ticks behind

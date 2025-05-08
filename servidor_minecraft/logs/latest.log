@@ -1386,3 +1386,59 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08May2025 17:21:43.334] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
 [08May2025 17:21:43.334] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
 [08May2025 17:21:57.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2844ms or 56 ticks behind
+[08May2025 17:22:03.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp was slain by Zombified Piglin
+[08May2025 17:22:04.840] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08May2025 17:22:12.598] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xander_Aqp lost connection: Disconnected
+[08May2025 17:22:12.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp left the game
+[08May2025 17:22:12.598] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Xander_Aqp
+[08May2025 17:22:29.057] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
+[08May2025 17:22:29.057] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
+[08May2025 17:22:29.057] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 70
+[08May2025 17:22:29.057] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 70
+[08May2025 17:22:29.060] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@3d67286]Can't spawn wave because max cap has been reached
+[08May2025 17:22:30.118] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7f315e8f[id=<null>,name=Xander_Aqp,properties={},legacy=false] (/127.98.12.191:37483) lost connection: Disconnected
+[08May2025 17:22:41.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xander_Aqp[/127.98.12.191:49511] logged in with entity id 188707 at (-27.99851294938756, 92.0, -84.60967617197217)
+[08May2025 17:22:41.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp joined the game
+[08May2025 17:22:41.097] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Xander_Aqp
+[08May2025 17:22:41.251] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Xander_Aqp
+[08May2025 17:22:41.260] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Xander_Aqp (18)
+[08May2025 17:22:41.261] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Xander_Aqp
+[08May2025 17:22:54.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xander_Aqp lost connection: Disconnected
+[08May2025 17:22:54.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp left the game
+[08May2025 17:22:54.419] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Xander_Aqp
+[08May2025 17:22:55.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigan_viendo01 lost connection: Disconnected
+[08May2025 17:22:55.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 left the game
+[08May2025 17:22:55.558] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sigan_viendo01
+[08May2025 17:24:08.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sigan_viendo01[/127.117.105.103:55951] logged in with entity id 190587 at (-146.46127691501027, 58.0, 88.7076828777164)
+[08May2025 17:24:08.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 joined the game
+[08May2025 17:24:08.840] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to sigan_viendo01
+[08May2025 17:24:09.098] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from sigan_viendo01
+[08May2025 17:24:09.111] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of sigan_viendo01 (18)
+[08May2025 17:24:09.112] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sigan_viendo01
+[08May2025 17:24:31.417] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xander_Aqp[/127.98.12.191:59749] logged in with entity id 190891 at (-27.99851294938756, 92.0, -84.60967617197217)
+[08May2025 17:24:31.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp joined the game
+[08May2025 17:24:31.474] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Xander_Aqp
+[08May2025 17:24:32.219] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Xander_Aqp
+[08May2025 17:24:32.219] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Xander_Aqp (18)
+[08May2025 17:24:32.220] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Xander_Aqp
+[08May2025 17:24:44.018] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 50
+[08May2025 17:24:44.018] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
+[08May2025 17:24:44.018] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
+[08May2025 17:24:44.019] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
+[08May2025 17:25:34.017] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 50
+[08May2025 17:25:34.018] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
+[08May2025 17:25:34.018] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
+[08May2025 17:25:34.018] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
+[08May2025 17:25:36.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=64, z=-161} BlockPos{x=-54, y=64, z=-159}
+[08May2025 17:25:37.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=64, z=-161} BlockPos{x=-54, y=64, z=-159}
+[08May2025 17:27:21.753] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[08May2025 17:29:53.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp was shot by Warrior
+[08May2025 17:29:54.839] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08May2025 17:29:57.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xander_Aqp lost connection: Disconnected
+[08May2025 17:29:57.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp left the game
+[08May2025 17:29:57.660] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Xander_Aqp
+[08May2025 17:30:11.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 13000
+[08May2025 17:37:21.854] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[08May2025 17:37:24.736] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[08May2025 17:37:36.071] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[08May2025 17:37:48.458] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events

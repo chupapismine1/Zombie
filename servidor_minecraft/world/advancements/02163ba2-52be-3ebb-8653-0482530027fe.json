@@ -78,6 +78,7 @@
       "minecraft:taiga": "2025-04-26 18:48:49 +0000",
       "minecraft:birch_forest": "2025-04-29 16:29:02 +0000",
       "minecraft:beach": "2025-05-01 22:26:24 +0000",
+      "minecraft:dark_forest": "2025-05-08 17:17:41 +0000",
       "minecraft:river": "2025-04-26 19:01:42 +0000",
       "minecraft:stony_shore": "2025-04-26 19:02:50 +0000",
       "minecraft:cold_ocean": "2025-04-26 19:12:20 +0000",
@@ -9666,21 +9667,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
-    "criteria": {
-      "has_smooth_quartz": "2025-05-08 17:02:38 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
     "criteria": {
       "beef_patty": "2025-05-08 17:02:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-05-08 17:02:22 +0000"
     },
     "done": true
   },
@@ -9690,27 +9679,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_bricks": {
-    "criteria": {
-      "has_packed_mud": "2025-05-08 17:16:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-05-08 17:02:22 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
     "criteria": {
       "cooked_mutton_chops": "2025-05-08 17:02:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
-    "criteria": {
-      "has_smooth_quartz": "2025-05-08 17:02:38 +0000"
     },
     "done": true
   },
@@ -9738,27 +9709,39 @@
     },
     "done": true
   },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "flint_knife": "2025-05-08 17:02:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
-    "criteria": {
-      "has_smooth_quartz": "2025-05-08 17:02:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
-    "criteria": {
-      "has_smooth_quartz": "2025-05-08 17:02:38 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/cooked_mutton_chops": {
     "criteria": {
       "cooked_mutton_chops": "2025-05-08 17:02:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-05-08 17:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-05-08 17:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-08 17:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-08 17:02:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2025-05-08 17:02:22 +0000"
     },
     "done": true
   },
@@ -9774,15 +9757,159 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
-      "beef_patty": "2025-05-08 17:02:21 +0000"
+      "has_smooth_quartz": "2025-05-08 17:02:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton": {
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
     "criteria": {
-      "has_mutton": "2025-05-08 17:02:21 +0000"
+      "has_smooth_quartz": "2025-05-08 17:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-05-08 17:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-05-08 17:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-05-08 17:16:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
+    "criteria": {
+      "has_dripstone_pillar_trim": "2025-05-08 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-08 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-08 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-08 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-08 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-08 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-08 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2025-05-08 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-08 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-08 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-08 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-08 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-08 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-08 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-08 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-08 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-08 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-08 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-08 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-08 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-08 17:20:05 +0000"
     },
     "done": true
   },

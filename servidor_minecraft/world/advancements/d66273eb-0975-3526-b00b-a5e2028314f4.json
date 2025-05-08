@@ -4079,6 +4079,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:zoglin": "2025-05-08 17:19:49 +0000",
       "minecraft:zombified_piglin": "2025-05-02 21:12:43 +0000",
       "minecraft:husk": "2025-05-03 03:55:50 +0000",
       "minecraft:zombie": "2025-05-01 18:02:21 +0000",

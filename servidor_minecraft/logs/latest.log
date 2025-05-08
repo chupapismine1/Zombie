@@ -1281,3 +1281,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08May2025 15:57:49.798] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from ANGELXD12377
 [08May2025 15:57:49.801] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ANGELXD12377 (18)
 [08May2025 15:57:49.801] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ANGELXD12377
+[08May2025 16:15:19.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigan_viendo01 lost connection: Disconnected
+[08May2025 16:15:19.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 left the game
+[08May2025 16:15:19.957] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sigan_viendo01
+[08May2025 16:15:57.167] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sigan_viendo01[/127.117.105.103:53163] logged in with entity id 74360 at (214.98271795511315, 18.0, -6.062883904237634)
+[08May2025 16:15:57.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 joined the game
+[08May2025 16:15:57.208] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to sigan_viendo01
+[08May2025 16:15:57.411] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from sigan_viendo01
+[08May2025 16:15:57.414] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of sigan_viendo01 (18)
+[08May2025 16:15:57.415] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sigan_viendo01

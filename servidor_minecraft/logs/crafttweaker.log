@@ -1,26 +1,16 @@
-[20:49:08.818][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Forge
-[20:49:08.844][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
-[20:49:08.946][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
-[20:49:08.950][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[20:49:08.951][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin createtweaker:main
-[20:49:08.956][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
-[20:49:08.957][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin refurbished_furniture:plugin
-[20:49:10.746][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
-[20:49:10.746][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.48'
-[20:49:10.747][INFO][CraftTweaker]: - 'createtweaker' at version '4.0.13'
-[20:49:10.747][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.6'
-[20:49:10.747][INFO][CraftTweaker]: - 'refurbished_furniture' at version '1.0.8'
-[20:49:21.727][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
-[20:49:22.981][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[20:49:23.068][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[20:49:23.256][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
-[20:49:47.618][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
-[20:49:47.655][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[20:49:47.676][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[20:49:47.691][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
-[20:49:48.829][INFO][CraftTweaker]: crafttweaker.reload.start
-[20:49:48.833][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
-[20:49:48.859][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[20:49:49.258][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
-[20:49:49.276][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
-[20:49:49.279][INFO][CraftTweaker]: crafttweaker.reload.complete
+[21:21:51.500][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Forge
+[21:21:51.528][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[21:21:51.611][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[21:21:51.612][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[21:21:51.616][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin createtweaker:main
+[21:21:51.618][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[21:21:51.622][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin refurbished_furniture:plugin
+[21:21:53.269][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[21:21:53.277][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.48'
+[21:21:53.277][INFO][CraftTweaker]: - 'createtweaker' at version '4.0.13'
+[21:21:53.277][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.6'
+[21:21:53.277][INFO][CraftTweaker]: - 'refurbished_furniture' at version '1.0.8'
+[21:22:06.876][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[21:22:08.335][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[21:22:08.437][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[21:22:08.726][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully

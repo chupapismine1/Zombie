@@ -47,3 +47,4 @@
 	#The gun pack that the client player needs to download, needs to fill in the URL and the SHA1 value of the file
 	ClientGunPackDownloadUrls = []
 
+

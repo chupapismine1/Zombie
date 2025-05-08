@@ -8670,5 +8670,17 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-05-08 17:52:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-05-08 17:52:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

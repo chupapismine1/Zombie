@@ -9936,123 +9936,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lectern": {
+  "bloomingnature:recipes/yellow_dye_from_genisteae": {
     "criteria": {
-      "has_book": "2025-05-08 17:43:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-05-08 17:57:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-05-08 17:37:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-05-08 17:51:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/stick_from_dead_bush": {
-    "criteria": {
-      "has_dead_bush": "2025-05-08 17:44:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-05-08 18:13:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2025-05-08 17:44:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-08 19:15:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-08 19:15:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-05-08 18:01:42 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/pink_dye_from_joe_pye": {
-    "criteria": {
-      "has_joe_pye": "2025-05-08 17:57:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-05-08 17:37:49 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/fancy_painting": {
-    "criteria": {
-      "has_fancy_painting": "2025-05-08 19:04:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-08 17:43:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-08 17:43:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-05-08 17:51:03 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-08 17:43:02 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/cherry_wall": {
-    "criteria": {
-      "has_logs": "2025-05-08 17:57:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/barbecue_stick": {
-    "criteria": {
-      "has_tomato": "2025-05-08 17:40:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2025-05-08 17:57:14 +0000"
+      "has_genisteae": "2025-05-08 17:29:27 +0000"
     },
     "done": true
   },
@@ -10062,27 +9948,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/cherry_cabinet": {
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
     "criteria": {
-      "has_cherry_trapdoor": "2025-05-08 19:23:04 +0000"
+      "has_allium": "2025-05-08 17:35:29 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/light_blue_dye_from_blue_orchid": {
+  "minecraft:recipes/building_blocks/clay": {
     "criteria": {
-      "has_blue_orchid": "2025-05-08 17:44:47 +0000"
+      "has_clay_ball": "2025-05-08 17:37:49 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+  "minecraft:recipes/misc/brick": {
     "criteria": {
-      "has_pumpkin": "2025-05-08 18:13:39 +0000"
+      "has_clay_ball": "2025-05-08 17:37:49 +0000"
     },
     "done": true
   },
-  "bloomingnature:recipes/yellow_dye_from_genisteae": {
+  "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
-      "has_genisteae": "2025-05-08 17:29:27 +0000"
+      "has_tomato": "2025-05-08 17:40:10 +0000"
     },
     "done": true
   },
@@ -10098,39 +9984,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
     "criteria": {
-      "has_amethyst_shard": "2025-05-08 19:15:56 +0000"
+      "has_tomato": "2025-05-08 17:40:10 +0000"
     },
     "done": true
   },
-  "projectvibrantjourneys:recipes/building_blocks/stick_from_twigs": {
+  "farmersdelight:recipes/misc/tomato_seeds": {
     "criteria": {
-      "has_twigs": "2025-05-08 18:24:17 +0000"
+      "has_tomato": "2025-05-08 17:40:10 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+  "minecraft:recipes/redstone/lectern": {
     "criteria": {
-      "has_pumpkin": "2025-05-08 18:13:39 +0000"
+      "has_book": "2025-05-08 17:43:02 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/falconry_glove": {
+  "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "falconry_glove": "2025-05-08 19:51:46 +0000"
+      "has_book": "2025-05-08 17:43:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/spyglass": {
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
-      "has_amethyst_shard": "2025-05-08 19:15:56 +0000"
+      "has_book": "2025-05-08 17:43:02 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
     "criteria": {
-      "has_allium": "2025-05-08 17:35:29 +0000"
+      "has_book": "2025-05-08 17:43:02 +0000"
     },
     "done": true
   },
@@ -10140,9 +10026,69 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/tomato_crate": {
+  "handcrafted:recipes/misc/stackable_book": {
     "criteria": {
-      "has_tomato": "2025-05-08 17:40:10 +0000"
+      "has_stackable_book": "2025-05-08 17:43:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-08 17:43:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/stick_from_dead_bush": {
+    "criteria": {
+      "has_dead_bush": "2025-05-08 17:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-05-08 17:44:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-05-08 17:44:47 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
+    "criteria": {
+      "has_orange_bark_mushroom": "2025-05-08 17:45:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-08 17:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-08 17:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-05-08 17:57:14 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_wall": {
+    "criteria": {
+      "has_logs": "2025-05-08 17:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-08 17:57:14 +0000"
     },
     "done": true
   },
@@ -10164,27 +10110,39 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/stackable_book": {
-    "criteria": {
-      "has_stackable_book": "2025-05-08 17:43:02 +0000"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/building_blocks/cherry_palisade": {
     "criteria": {
       "has_log": "2025-05-08 17:57:14 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+  "bloomingnature:recipes/pink_dye_from_joe_pye": {
     "criteria": {
-      "has_amethyst_shard": "2025-05-08 19:15:56 +0000"
+      "has_joe_pye": "2025-05-08 17:57:22 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "has_book": "2025-05-08 17:43:02 +0000"
+      "tamed_animal": "2025-05-08 18:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-08 18:13:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-05-08 18:13:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-05-08 18:13:39 +0000"
     },
     "done": true
   },
@@ -10194,9 +10152,15 @@
     },
     "done": true
   },
-  "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
+  "projectvibrantjourneys:recipes/building_blocks/stick_from_twigs": {
     "criteria": {
-      "has_orange_bark_mushroom": "2025-05-08 17:45:29 +0000"
+      "has_twigs": "2025-05-08 18:24:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-05-08 19:04:06 +0000"
     },
     "done": true
   },
@@ -10206,9 +10170,45 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/tomato_seeds": {
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
-      "has_tomato": "2025-05-08 17:40:10 +0000"
+      "has_amethyst_shard": "2025-05-08 19:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-08 19:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-08 19:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-08 19:15:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-08 19:15:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cherry_cabinet": {
+    "criteria": {
+      "has_cherry_trapdoor": "2025-05-08 19:23:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/falconry_glove": {
+    "criteria": {
+      "falconry_glove": "2025-05-08 19:51:46 +0000"
     },
     "done": true
   },

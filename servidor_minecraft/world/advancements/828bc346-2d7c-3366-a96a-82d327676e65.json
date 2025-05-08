@@ -10116,6 +10116,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/falconry_glove": {
+    "criteria": {
+      "falconry_glove": "2025-05-08 19:51:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-08 19:15:56 +0000"

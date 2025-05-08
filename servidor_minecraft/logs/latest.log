@@ -1527,3 +1527,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08May2025 19:41:58.297] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [08May2025 19:42:46.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANGELXD12377 hit the ground too hard
 [08May2025 19:42:47.557] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08May2025 19:51:18.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ANGELXD12377 lost connection: Disconnected
+[08May2025 19:51:18.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANGELXD12377 left the game
+[08May2025 19:51:18.793] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ANGELXD12377
+[08May2025 19:51:46.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 has made the advancement [Hand In Glove]
+[08May2025 19:54:54.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-110, y=67, z=140} BlockPos{x=-109, y=67, z=139}

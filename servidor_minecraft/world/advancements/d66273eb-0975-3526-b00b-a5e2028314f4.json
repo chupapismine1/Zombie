@@ -8663,5 +8663,11 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/stick": {
+    "criteria": {
+      "has_beach_bush_tall": "2025-05-08 16:04:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

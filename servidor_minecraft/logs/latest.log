@@ -1532,3 +1532,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08May2025 19:51:18.793] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ANGELXD12377
 [08May2025 19:51:46.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 has made the advancement [Hand In Glove]
 [08May2025 19:54:54.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-110, y=67, z=140} BlockPos{x=-109, y=67, z=139}
+[08May2025 19:56:51.203] [ForkJoinPool.commonPool-worker-9/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[08May2025 19:56:51.203] [ForkJoinPool.commonPool-worker-9/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[08May2025 19:56:51.203] [ForkJoinPool.commonPool-worker-9/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[08May2025 19:56:51.203] [ForkJoinPool.commonPool-worker-9/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[08May2025 19:56:51.203] [ForkJoinPool.commonPool-worker-9/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[08May2025 19:56:51.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sigan_viendo01> W
+[08May2025 20:01:01.040] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigan_viendo01 lost connection: Disconnected
+[08May2025 20:01:01.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 left the game
+[08May2025 20:01:01.041] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sigan_viendo01

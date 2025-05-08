@@ -1463,3 +1463,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08May2025 18:20:14.781] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
 [08May2025 18:20:15.544] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
 [08May2025 18:20:16.446] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[08May2025 18:46:33.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.bloomingnature.mod_boat (vehicle of ANGELXD12377) moved wrongly! 0.25312285289533065
+[08May2025 18:46:33.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.bloomingnature.mod_boat (vehicle of ANGELXD12377) moved wrongly! 0.3199516345933944
+[08May2025 18:46:34.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.bloomingnature.mod_boat (vehicle of ANGELXD12377) moved wrongly! 0.41923498936910164
+[08May2025 18:47:22.340] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/318605, l='ServerLevel[world]', x=-953.50, y=56.00, z=141.50]
+[08May2025 18:52:15.559] [ForkJoinPool.commonPool-worker-6/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[08May2025 18:52:15.559] [ForkJoinPool.commonPool-worker-6/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[08May2025 18:52:15.559] [ForkJoinPool.commonPool-worker-6/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[08May2025 18:52:15.559] [ForkJoinPool.commonPool-worker-6/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[08May2025 18:52:15.559] [ForkJoinPool.commonPool-worker-6/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[08May2025 18:52:15.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sigan_viendo01> ADORNANL0O

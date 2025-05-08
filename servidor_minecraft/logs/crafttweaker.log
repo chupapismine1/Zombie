@@ -1,16 +1,26 @@
-[21:21:51.500][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Forge
-[21:21:51.528][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
-[21:21:51.611][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
-[21:21:51.612][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[21:21:51.616][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin createtweaker:main
-[21:21:51.618][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
-[21:21:51.622][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin refurbished_furniture:plugin
-[21:21:53.269][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
-[21:21:53.277][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.48'
-[21:21:53.277][INFO][CraftTweaker]: - 'createtweaker' at version '4.0.13'
-[21:21:53.277][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.6'
-[21:21:53.277][INFO][CraftTweaker]: - 'refurbished_furniture' at version '1.0.8'
-[21:22:06.876][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
-[21:22:08.335][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[21:22:08.437][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[21:22:08.726][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[22:02:14.273][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Forge
+[22:02:14.311][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[22:02:14.369][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[22:02:14.377][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[22:02:14.379][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin createtweaker:main
+[22:02:14.389][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[22:02:14.390][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin refurbished_furniture:plugin
+[22:02:15.757][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[22:02:15.758][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.48'
+[22:02:15.758][INFO][CraftTweaker]: - 'createtweaker' at version '4.0.13'
+[22:02:15.758][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.6'
+[22:02:15.758][INFO][CraftTweaker]: - 'refurbished_furniture' at version '1.0.8'
+[22:02:25.614][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[22:02:26.558][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[22:02:26.619][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[22:02:26.757][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[22:02:42.348][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[22:02:42.404][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[22:02:42.458][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[22:02:42.495][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[22:02:44.063][INFO][CraftTweaker]: crafttweaker.reload.start
+[22:02:44.074][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[22:02:44.128][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[22:02:44.563][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[22:02:44.576][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[22:02:44.577][INFO][CraftTweaker]: crafttweaker.reload.complete
